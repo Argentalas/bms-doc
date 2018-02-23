@@ -1,7 +1,4 @@
-|image0|
-
-**Manual de utilizare al sistemului integrat"1C:Business Management
-Suite "**
+**Manual de utilizare al sistemului integrat"1C:BusinessManagementSuite"**
 
 **S.C. „1C-Account Timbal” S.R.L.**
 
