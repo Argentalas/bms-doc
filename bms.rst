@@ -7,18 +7,15 @@
 
 **Cuprins:**
 
-`1. Introducere în 1C:BusinessManagementSuite
-6 <#introducere-în-1cbusiness-management-suite>`__
+`1. Introducere în 1C:BusinessManagementSuite 6 <#introducere-în-1cbusiness-management-suite>`__
 
 `1.1. Platforma „1C:Enterprise 8” 7 <#platforma-1centerprise-8>`__
 
-`1.2. Avantaje pentru factorii de decizie
-7 <#avantaje-pentru-factorii-de-decizie>`__
+`1.2. Avantaje pentru factorii de decizie 7 <#avantaje-pentru-factorii-de-decizie>`__
 
 `1.3. Soluții pentru industrie 8 <#soluții-pentru-industrie>`__
 
-`2. Principalele Butoane 1C:BusinessManagementSuite
-8 <#principalele-butoane-1cbusiness-management-suite>`__
+`2. Principalele Butoane 1C:BusinessManagementSuite 8 <#principalele-butoane-1cbusiness-management-suite>`__
 
 `3. Utilizatori 9 <#utilizatori>`__
 
@@ -26,16 +23,13 @@
 
 `3.2. Drepturi de acces 11 <#drepturi-de-acces>`__
 
-`4.Setările inițiale ale bazei de date
-12 <#setările-inițiale-ale-bazei-de-date>`__
+`4.Setările inițiale ale bazei de date 12 <#setările-inițiale-ale-bazei-de-date>`__
 
 `4.1.Multi-societate 12 <#multi-societate>`__
 
-`5. Introducerea informațiilor și soldurilor inițiale ale organizației
-13 <#introducerea-informațiilor-și-soldurilor-inițiale-ale-organizației>`__
+`5. Introducerea informațiilor și soldurilor inițiale ale organizației 13 <#introducerea-informațiilor-și-soldurilor-inițiale-ale-organizației>`__
 
-`5.1. Introducerea datelor inițiale ale organizației
-13 <#introducerea-datelor-inițiale-ale-organizației>`__
+`5.1. Introducerea datelor inițiale ale organizației 13 <#introducerea-datelor-inițiale-ale-organizației>`__
 
 `5.2. Introducere solduri inițiale 17 <#introducere-solduri-inițiale>`__
 
@@ -49,8 +43,7 @@
 
 `5.3.4. Valute 30 <#valute>`__
 
-`6. Module 1C:BusinessManagementSuite
-33 <#module-1cbusiness-management-suite>`__
+`6. Module 1C:BusinessManagementSuite 33 <#module-1cbusiness-management-suite>`__
 
 `6.1. Vânzări 33 <#vânzări>`__
 
@@ -62,11 +55,9 @@
 
 `6.1.4. Factura fiscală de vânzare 37 <#factura-fiscală-de-vânzare>`__
 
-`6.1.4.Setare preț principal de vânzare
-38 <#setare-preț-principal-de-vânzare>`__
+`6.1.4.Setare preț principal de vânzare 38 <#setare-preț-principal-de-vânzare>`__
 
-`6.1.5.Formarea prețurilor de vânzare
-40 <#formarea-prețurilor-de-vânzare>`__
+`6.1.5.Formarea prețurilor de vânzare 40 <#formarea-prețurilor-de-vânzare>`__
 
 `6.1.6. Retur de la client 58 <#retur-de-la-client>`__
 
@@ -78,11 +69,9 @@
 
 `6.2.2. Factura proformă primită 61 <#factura-proformă-primită>`__
 
-`6.2.3. Cumpărări mărfuri și servicii
-61 <#cumpărări-mărfuri-și-servicii>`__
+`6.2.3. Cumpărări mărfuri și servicii 61 <#cumpărări-mărfuri-și-servicii>`__
 
-`6.2.4. Factura fiscală de achiziție
-62 <#factura-fiscală-de-achiziție>`__
+`6.2.4. Factura fiscală de achiziție 62 <#factura-fiscală-de-achiziție>`__
 
 `6.2.5.Setare preț de achiziție 64 <#setare-preț-de-achiziție>`__
 
@@ -90,8 +79,7 @@
 
 `6.2.7. Retur către furnizor 66 <#retur-către-furnizor>`__
 
-`6.2.8. Rapoarte privind achizițiile și stocurile
-66 <#rapoarte-privind-achizițiile-și-stocurile>`__
+`6.2.8. Rapoarte privind achizițiile și stocurile 66 <#rapoarte-privind-achizițiile-și-stocurile>`__
 
 `6.3. Serviciu 68 <#serviciu>`__
 
@@ -105,8 +93,7 @@
 
 `6.4.2. Producție 71 <#producție-1>`__
 
-`6.4.3. Mișcări interne ale stocurilor
-72 <#mișcări-interne-ale-stocurilor>`__
+`6.4.3. Mișcări interne ale stocurilor 72 <#mișcări-interne-ale-stocurilor>`__
 
 `6.4.4. Repartizarea cheltuielilor 72 <#repartizarea-cheltuielilor>`__
 
@@ -169,90 +156,6 @@
 `10. Modificare forme de listare 99 <#modificare-forme-de-listare>`__
 
 `11. Copie bază de date în 1C:Enterprise 100 <#copie-bază-de-date-în-1centerprise>`__
-
-`Scenarii de implementare 1C:BusinessManagementSuite 101 <#scenarii-de-implementare-1cbusiness-management-suite>`__
-
-`Sc.1. Scenariu de implementare în cadrul unei companii cu tipul de activitate ,,Vânzări” 101 <#sc.1.-scenariu-de-implementare-în-cadrul-unei-companii-cu-tipul-de-activitate-vânzări>`__
-
-`Sc.1.1. Utilizatori 101 <#sc.1.1.-utilizatori>`__
-
-`Sc.1.1.1. Crearea utilizatorilor 101 <#sc.1.1.1.-crearea-utilizatorilor>`__
-
-`Sc.1.1.2. Drepturi de acces 103 <#sc.1.1.2.-drepturi-de-acces>`__
-
-`Sc.1.2. Introducerea datelor generale ale organizației (informații și solduri inițiale) 103 <#sc.1.2.-introducerea-datelor-generale-ale-organizației-informații-și-solduri-inițiale>`__
-
-`Sc.1.3.Setările inițiale ale bazei de date pentru specificul Vânzări 104 <#sc.1.3.setările-inițiale-ale-bazei-de-date-pentru-specificul-vânzări>`__
-
-`Sc.1.4. Crearea partenerilor (clienți, furnizori) 105 <#sc.1.4.-crearea-partenerilor-clienți-furnizori>`__
-
-`Sc.1.5. Creare nomenclator (completarea bazei de date cu articole) 107 <#sc.1.5.-creare-nomenclator-completarea-bazei-de-date-cu-articole>`__
-
-`Sc.1.6. Introducerea soldurilor inițiale 109 <#sc.1.6.-introducerea-soldurilor-inițiale>`__
-
-`Sc.1.7. Modul de operare în sistemul informațional structurat pe funcții 110 <#sc.1.7.-modul-de-operare-în-sistemul-informațional-structurat-pe-funcții>`__
-
-`Sc.1.7.1.Manager de vânzări 110 <#sc.1.7.1.manager-de-vânzări>`__
-
-`Sc.1.7.2. Мanagerul de achiziții înregistrează „Comenzile către furnizori” 113 <#sc.1.7.2.-мanagerul-de-achiziții-înregistrează-comenzile-către-furnizori>`__
-
-`Sc.1.8. Dispecerul 117 <#sc.1.8.-dispecerul>`__
-
-`Sc.1.8.1Crearea câmpului suplimentar. 117 <#sc.1.8.1crearea-câmpului-suplimentar.>`__
-
-`Sc.1.9.Managerul de vânzări 123 <#sc.1.9.managerul-de-vânzări>`__
-
-`Sc.1.10. Contabilul 128 <#sc.1.10.-contabilul>`__
-
-`Sc.1.11. Directorul 131 <#sc.1.11.-directorul>`__
-
-`Sc.2. Scenariu de implementare în cadrul unei companii cu tipul de activitate „Producție” 132 <#sc.2.-scenariu-de-implementare-în-cadrul-unei-companii-cu-tipul-de-activitate-producție>`__
-
-`Sc.2.1. Descrierea Companiei 132 <#sc.2.1.-descrierea-companiei>`__
-
-`Sc.2.2. Schema de funcționare a activității companiei SC Fimo Effect SRL 132 <#sc.2.2.-schema-de-funcționare-a-activității-companiei-sc-fimo-effect-srl>`__
-
-`Sc.2.3. Vânzarea de mărfuri prin reţeaua de comerț a companiei 133 <#sc.2.3.-vânzarea-de-mărfuri-prin-reţeaua-de-comerț-a-companiei>`__
-
-`Sc.2.4. Descrierea procesului de producție în cadrul programului 1C:BusinessManagementSuite – Producție. 133 <#sc.2.4.-descrierea-procesului-de-producție-în-cadrul-programului-business-management-suite-producție.>`__
-
-`Sc.2.5. Întocmirea lanțului de documente în ceea ce privește achizițiile de materii prime 134 <#sc.2.5.-întocmirea-lanțului-de-documente-în-ceea-ce-privește-achizițiile-de-materii-prime>`__
-
-`Sc.2.6. Posibilitatea cumpărării de mărfuri și servicii de la furnizori externi cu efectuare de cheltuieli suplimentare 136 <#sc.2.6.-posibilitatea-cumpărării-de-mărfuri-și-servicii-de-la-furnizori-externi-cu-efectuare-de-cheltuieli-suplimentare>`__
-
-`Sc.2.7. Transmiterea materiilor prime în secţia principală de producţie 137 <#sc.2.7.-transmiterea-materiilor-prime-în-secţia-principală-de-producţie>`__
-
-`Sc.2.8. Controlul executării planului de producţie 140 <#sc.2.8.-controlul-executării-planului-de-producţie>`__
-
-`Sc.2.9. Transferul mărfii produse de la depozitul principal la depozitele punctelor de desfacere cu amănuntul 141 <#sc.2.9.-transferul-mărfii-produse-de-la-depozitul-principal-la-depozitele-punctelor-de-desfacere-cu-amănuntul>`__
-
-`Sc.2.10. Comercializarea mărfii la punctele de desfacere cu amănuntul 141 <#sc.2.10.-comercializarea-mărfii-la-punctele-de-desfacere-cu-amănuntul>`__
-
-`Sc.2.11. Transferul încasărilor din punctele de vânzare cu amănuntul în casieria companiei 143 <#sc.2.11.-transferul-încasărilor-din-punctele-de-vânzare-cu-amănuntul-în-casieria-companiei>`__
-
-`Sc.2.12.Contabilul 144 <#sc.2.12.contabilul>`__
-
-`Sc.2.12.1 Cumpărarea valutei 144 <#sc.2.12.1-cumpărarea-valutei>`__
-
-`Sc.2.12.2. Plata facturii furnizorului 145 <#_Toc437348801>`__
-
-`Sc.2.12.3 Realizarea cheltuielilor suplimentare pentru plata taxelor vamale 145 <#sc.2.12.3-realizarea-cheltuielilor-suplimentare-pentru-plata-taxelor-vamale>`__
-
-`Sc.2.12.4 Realizarea lanțului de etape pentru a produce o pereche de cercei în formă de floare: 147 <#sc.2.12.4-realizarea-lanțului-de-etape-pentru-a-produce-o-pereche-de-cercei-în-formă-de-floare>`__
-
-`Sc.2.13. Managerul de vânzări 157 <#sc.2.13.-managerul-de-vânzări>`__
-
-`Sc.2.14. Informaţii despre vânzările reale 158 <#sc.2.14.-informaţii-despre-vânzările-reale>`__
-
-`Sc.2.15. Analiza veniturilor şi cheltuielilor 160 <#sc.2.15.-analiza-veniturilor-şi-cheltuielilor>`__
-
-`Sc.2.16. Rapoarte privind Producția 160 <#sc.2.16.-rapoarte-privind-producția>`__
-
-`Sc.3.Exemplu de implementare a sistemului informațional 1C:BusinessManagementSuite în cadrul unei companii cu domeniul de activitate *„*\ Construcții\ *”* 163 <#sc.3.exemplu-de-implementare-a-sistemului-informațional-1cbusiness-management-suite-în-cadrul-unei-companii-cu-domeniul-de-activitate-construcții>`__
-
-`Sc.3.1. Crearea catalogului Nomenclator 164 <#sc.3.1.-crearea-catalogului-nomenclator>`__
-
-`Sc.3.2. Calcularea salariului 173 <#sc.3.2.-calcularea-salariului>`__
 
 **
 
