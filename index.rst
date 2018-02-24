@@ -11,6 +11,9 @@ Welcome to "1C:BusinessManagementSuite" documentation!
    :caption: Contents:
 
    bms.rst
+   exemplu_vanzari.rst
+   exemplu_productie.rst
+   exemplu_constructii.rst
    calcularea_salariului.rst
    inchiderea_lunii.rst
    concluzie.rst
