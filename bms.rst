@@ -1,3 +1,6 @@
+|image0|
+
+
 **Manual de utilizare al sistemului integrat"1C:BusinessManagementSuite"**
 
 **S.C. „1C-Account Timbal” S.R.L.**
@@ -3627,7 +3630,7 @@ Raportul „Analiza costului net”
 
 
 
-.. |image0| image:: media/image2.png
+.. |image0| image:: media/1c-at.png
    :width: 3.42847in
    :height: 1.29861in
 .. |image1| image:: media/image3.png

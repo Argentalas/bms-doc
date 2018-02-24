@@ -26,6 +26,6 @@ CUI: RO29617927
 
 |image335|
 
-.. |image335| image:: media/image2.png
+.. |image335| image:: media/1Cv8.png
    :width: 2.83346in
    :height: 1.0626in
