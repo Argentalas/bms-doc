@@ -8,15 +8,15 @@ Sc.3. Exemplu de implementare a sistemului informațional "1C:BusinessManagement
 costului lucrărilor de construcţie cu un ciclu de lucru de lungă durată
 (mai mult de o lună).
 
-Pentru a realiza acest lucru, mergem în secțiunea „Administrare”,
-„Întreprindere”, „Altele” și bifăm *„*\ Utilizare metodă de evidență a
+Pentru a realiza acest lucru, mergem în secțiunea "Administrare”,
+"Întreprindere”, "Altele” și bifăm *"*\ Utilizare metodă de evidență a
 casieriei pe bază de venituri si cheltuieli și Utilizare bugetară.\ *”*
 
 Înainte de a trece la partea de evidenţă, trebuie să identificăm
 cheltuielile, care stau la baza obiectivelor noastre. Cheltuielile în
 programul 1C:BMS Constructii vor fi înregistrate de utilizatori accesând
-fila „Întreprindere”, „Planificare”, în documentul *„*\ Buget\ *”* la
-secțiunea *„*\ Venituri și cheltuieli\ *”*. Pentru evidenţa
+fila "Întreprindere”, "Planificare”, în documentul *"*\ Buget\ *”* la
+secțiunea *"*\ Venituri și cheltuieli\ *”*. Pentru evidenţa
 cheltuielilor în configuraţia 1C:BMS Construcții sunt disponibile două
 tipuri de cheltuieli:
 
@@ -55,7 +55,7 @@ Vom crea mai departe serviciile prestate de întreprindere.
 
 Când toate cheltuielile sunt înregistrate şi sunt create toate
 elementele de tip nomenclator necesare, putem trece la înregistrarea
-documentului *„*\ Comanda clientului\ *”*
+documentului *"*\ Comanda clientului\ *”*
 
 |image313|
 
@@ -70,15 +70,15 @@ Pentru o evidență mai buna a documentelor este recomandată parcurgerea
 lanțului de documente în ceea ce privește achizițiile.
 
 În data de 15.01.2015 se înregistrează primirea materialelor de la
-furnizor în baza documentului *„*\ Comandă către frunizor\ *”*.
+furnizor în baza documentului *"*\ Comandă către frunizor\ *”*.
 
 |image314|
 
-*„*\ Factura proformă primită\ *”*
+*"*\ Factura proformă primită\ *”*
 
 |image315|
 
-*„*\ Cumpărări mărfuri și servicii\ *”*
+*"*\ Cumpărări mărfuri și servicii\ *”*
 
 |image316|
 
@@ -86,7 +86,7 @@ Repartizarea cheltuielilor de transport asupra cantității
 
 |image317|
 
-*„*\ Plată bancară\ *”*
+*"*\ Plată bancară\ *”*
 
 |image318|
 
@@ -94,22 +94,20 @@ Aceste materiale vor fi folosite pentru executarea lucrărilor. Operaţia
 am înregistrat-o cu ajutorul a două documente:
 
 -  15.01.2015 am înregistrat factura primită de la furnizor cu ajutorul
-   documentului „Comanda furnizor”.
-
+   documentului "Comanda furnizor”.
 -  În aceeași zi am înregistrat primirea materiilor prime, acest lucru
-   fiind reflectat prin documentul „Cumpărări marfuri și servicii”, pe
-   care l-am creat automat în baza documentului „Comanda
+   fiind reflectat prin documentul "Cumpărări marfuri și servicii”, pe
+   care l-am creat automat în baza documentului "Comanda
    furnizorului”.De asemenea am indicat că materiile prime de care avem
    nevoie sosesc direct la depozitul principal Armoniei.
 
-Realizarea de cumpărări mărfuri și servicii prin butonul *„*\ Creare pe
-bază\ *”*
+Realizarea de cumpărări mărfuri și servicii prin butonul *"*\ Creare pe bază\ *”*
 
 |image319|
 
 Pentru executarea lucrărilor, de la Depozitul Armoniei am transmis
 materiale și la depozitul de construcții Biruinței\ **.** Această
-operaţiune am înregistrat-o cu documentul *„*\ Transfer de stocuri\ *”*.
+operaţiune am înregistrat-o cu documentul *"*\ Transfer de stocuri\ *”*.
 
 |image320|
 ==========
@@ -120,7 +118,7 @@ executate, ne-a rămas să aflăm ce materiale au fost consumate în această
 perioadă şi să le înregistrăm în costul lucrărilor noastre.
 
 Putem verifica transferul de materiale între depozite cu ajutorul
-raportului *„*\ Transfer de stocuri\ *”*
+raportului *"*\ Transfer de stocuri\ *”*
 
 Raport privind transferul de materiale între depozite
 
@@ -133,48 +131,47 @@ Raport privind achizițiile
 Înainte de închiderea lunii, ne-a rămas să facem ultimul pas, şi anume
 repatizarea cheltuielilor in procesul de construire a blocului. Această
 operaţie se înregistrează în BMS - Construcții cu documentul
-*„*\ Repartizarea cheltuielilor\ *”*, care se află la secțiunea
-*„*\ Producţie\ *”*.
+*"*\ Repartizarea cheltuielilor\ *”*, care se află la secțiunea *"*\ Producţie\ *”*.
 
-Pe documentul *„*\ Repartizarea cheltuielilor\ *”*\ se află trei file:
+Pe documentul *"*\ Repartizarea cheltuielilor\ *”*\ se află trei file:
 
--  Prima filă este *„*\ Producţia\ *”*- unde se află informaţiile despre
+-  Prima filă este *"*\ Producţia\ *”*- unde se află informaţiile despre
    produsul finit pe care dorim să repartizăm cheltuielile.
 
-*„*\ Repartizarea cheltuielilor\ *”*\ pe baza comenzii producției
+*"*\ Repartizarea cheltuielilor\ *”*\ pe baza comenzii producției
 
 |image323|
 
--  În cea de-a doua filă *„*\ Stocuri\ *”* se reflectă informaţia despre
+-  În cea de-a doua filă *"*\ Stocuri\ *”* se reflectă informaţia despre
    materialele care compun produsul finit. În cazul nostru, dacă am
-   completat corect pagina *„*\ Producţie\ *”*, putem folosi butonul
-   *„*\ Completare\ *”,* la tastarea caruia partea tabelară
-   *„*\ Stocuri\ *”* se completează automat cu materialele pe care le-am
+   completat corect pagina *"*\ Producţie\ *”*, putem folosi butonul
+   *"*\ Completare\ *”,* la tastarea caruia partea tabelară
+   *"*\ Stocuri\ *”* se completează automat cu materialele pe care le-am
    indicat în procedeul de construcție Apoi tastăm
-   *„*\ Repartizare\ *”*\ şi repartizăm cheltuielile pe costul
+   *"*\ Repartizare\ *”*\ şi repartizăm cheltuielile pe costul
    obiectului nostru.
 
 Completarea automată a materialelor din compoziția produsului finit
 
 |image324|
 
--  A treia pagină *„*\ Cheltuieli\ *”* reflectă informaţia despre
+-  A treia pagină *"*\ Cheltuieli\ *”* reflectă informaţia despre
    cheltuielile transcrise în costul producţiei. În cazul nostru, dacă
-   am completat corect pagina *„*\ Producţie\ ***”***, putem tasta
-   *„*\ Completare\ *”* după care partea tabelară a filei
-   *„*\ Cheltuieli\ *”*\ se va completa automat cu cheltuielile
-   atribuite şi se vor ataşa la *„*\ Comanda cumpărătorului\ *”.*\ Apoi
-   tastăm *„*\ Repartizarea\ *”*\ şi repartizăm cheltuielile pe costul
+   am completat corect pagina *"*\ Producţie\ ***”***, putem tasta
+   *"*\ Completare\ *”* după care partea tabelară a filei
+   *"*\ Cheltuieli\ *”*\ se va completa automat cu cheltuielile
+   atribuite şi se vor ataşa la *"*\ Comanda cumpărătorului\ *”.*\ Apoi
+   tastăm *"*\ Repartizarea\ *”*\ şi repartizăm cheltuielile pe costul
    obiectului nostru.
 
 Repartizarea efectiva a cheltuielilor asupra costului produsului finit
 
 |image325|
 
-„Comanda de lucru”
+"Comanda de lucru”
 
 Informaţiile despre venituri, cheltuieli și profit le puteţi observa din
-raportul *„*\ Venituri și cheltuieli\ *”*
+raportul *"*\ Venituri și cheltuieli\ *”*
 
 |image326|
 
