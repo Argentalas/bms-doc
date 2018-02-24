@@ -1335,8 +1335,7 @@ Pasul 2: Selectarea nomenclatorul
 
 În vederea completării nomenclatorului, se apasă butonul „Completare”.
 
-|d:\Users\Cristina\Desktop\Screen shot formare preturi\Image
-42015-06-04, 10_06_13.png|
+|image84|
 
 Formarea prețurilor se poate realiza prin mai multe metode puse la
 dispoziție de program, pe care le vom prezenta în cele ce urmează:
@@ -3906,7 +3905,7 @@ CUI: RO29617927
 .. |image83| image:: media/image85.png
    :width: 4.6749in
    :height: 2.47826in
-.. |d:\Users\Cristina\Desktop\Screen shot formare preturi\Image 42015-06-04, 10_06_13.png| image:: media/image86.png
+.. |image84| image:: media/image86.png
    :width: 5.44561in
    :height: 4.04167in
 .. |image85| image:: media/image87.png
