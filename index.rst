@@ -3,14 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to bms-doc's documentation!
-===================================
+Welcome to "1C:BusinessManagementSuite" documentation!
+=======================================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
    bms.rst
+   inchiderea_lunii.rst
    concluzie.rst
 
 Indices and tables
