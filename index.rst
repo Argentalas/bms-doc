@@ -11,6 +11,7 @@ Welcome to "1C:BusinessManagementSuite" documentation!
    :caption: Contents:
 
    bms.rst
+   calcularea_salariului.rst
    inchiderea_lunii.rst
    concluzie.rst
 

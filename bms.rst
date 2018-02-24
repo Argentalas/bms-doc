@@ -7,7 +7,7 @@
 
 **Cuprins:**
 
-`1. Introducere în 1C:Business Management Suite
+`1. Introducere în 1C:BusinessManagementSuite
 6 <#introducere-în-1cbusiness-management-suite>`__
 
 `1.1. Platforma „1C:Enterprise 8” 7 <#platforma-1centerprise-8>`__
@@ -17,7 +17,7 @@
 
 `1.3. Soluții pentru industrie 8 <#soluții-pentru-industrie>`__
 
-`2. Principalele Butoane 1C:Business Management Suite
+`2. Principalele Butoane 1C:BusinessManagementSuite
 8 <#principalele-butoane-1cbusiness-management-suite>`__
 
 `3. Utilizatori 9 <#utilizatori>`__
@@ -49,7 +49,7 @@
 
 `5.3.4. Valute 30 <#valute>`__
 
-`6. Module 1C:Business Management Suite
+`6. Module 1C:BusinessManagementSuite
 33 <#module-1cbusiness-management-suite>`__
 
 `6.1. Vânzări 33 <#vânzări>`__
@@ -174,7 +174,7 @@
 `11. Copie bază de date în 1C:Enterprise
 100 <#copie-bază-de-date-în-1centerprise>`__
 
-`Scenarii de implementare 1C:Business Management Suite
+`Scenarii de implementare 1C:BusinessManagementSuite
 101 <#scenarii-de-implementare-1cbusiness-management-suite>`__
 
 `Sc.1. Scenariu de implementare în cadrul unei companii cu tipul de
@@ -239,7 +239,7 @@ SRL
 133 <#sc.2.3.-vânzarea-de-mărfuri-prin-reţeaua-de-comerț-a-companiei>`__
 
 `Sc.2.4. Descrierea procesului de producție în cadrul programului
-Business Management Suite – Producție.
+BusinessManagementSuite – Producție.
 133 <#sc.2.4.-descrierea-procesului-de-producție-în-cadrul-programului-business-management-suite-producție.>`__
 
 `Sc.2.5. Întocmirea lanțului de documente în ceea ce privește
@@ -303,12 +303,11 @@ Management Suite în cadrul unei companii cu domeniul de activitate
 `Sc.3.2. Calcularea salariului 173 <#sc.3.2.-calcularea-salariului>`__
 
 **
-**
 
-1. Introducere în 1C:Business Management Suite
+1. Introducere în 1C:BusinessManagementSuite
 ==============================================
 
-**1C:Business Management Suite** reprezintă o soluție software pentru
+**1C:BusinessManagementSuite** reprezintă o soluție software pentru
 mediul de business care permite automatizarea mai multor activități în
 fluxul de lucru pentru orice companie, inclusiv achiziții și vânzări,
 producție, prestări de servicii, management de proiect, și multe altele.
@@ -323,13 +322,13 @@ implicit la creșterea profitului dumneavoastră.
 
 |image1|
 
-**1C:Business Management Suite** elimină necesitatea de a stoca zeci de
+**1C:BusinessManagementSuite** elimină necesitatea de a stoca zeci de
 documente, rapoarte, foi de calcul pe biroul dumneavoastră și în memoria
 computer-ului. Toate datele sunt înregistrate și stocate într-o bază de
 date unică într-un singur fișier, fiind ușor de administrat și
 securizat.
 
-**1C:Business Management Suite** este capabil să înregistreze toate
+**1C:BusinessManagementSuite** este capabil să înregistreze toate
 tranzacțiile companiei dumneavoastră și alte evenimente specifice unei
 companii, ambele putând fi programate și finalizate. Acestea pot include
 (dar nu se limitează doar la atât) obligațiile către clienți, comenzile
@@ -365,7 +364,7 @@ O singură **bază informațională** (baza de date) include:
 
 -  și altele.
 
-**1C:Business Management Suite** include anumite formulare care se
+**1C:BusinessManagementSuite** include anumite formulare care se
 pliază pe aproape orice document necesar pentru comerț, inventar, de
 contabilitate, de producție, sau fluxul de numerar și oferă în timp real
 o mare varietate de rapoarte a proprietarilor de afaceri, managerilor
@@ -379,17 +378,17 @@ ale acesteia, sau schimbarea fluxului de lucru al companiei, aplicația
 poate fi reconfigurată rapid și ieftin pentru a reflecta aceste
 schimbări.
 
-**1C:Business Management Suite** este o aplicație de management pentru
+**1C:BusinessManagementSuite** este o aplicație de management pentru
 întreprinderile mici fiind recomandat pentru companii cu maxim zece
 stații de lucru. Această aplicație de afaceri este distribuită standard
 dar poate fi folosită ca o bază pentru a dezvolta aplicații proprii. În
-scopul de a utiliza **1C:Business Management Suite**, este necesar să
+scopul de a utiliza **1C:BusinessManagementSuite**, este necesar să
 dețineți sau să achiziționați licențe valabile „\ **1C:Enterprise 8”**.
 
 **1.1. Platforma „1C:Enterprise 8”**
 ------------------------------------
 
-Sistemul **1C:Business Management Suite** a fost dezvoltat pe platforma
+Sistemul **1C:BusinessManagementSuite** a fost dezvoltat pe platforma
 denumită **„1C:Enterprise 8”** care vă asigurăm că este o tehnologie de
 ultimă generație.
 
@@ -422,7 +421,7 @@ server/baze de date .
 **1.2. Avantaje pentru factorii de decizie**
 --------------------------------------------
 
-**1C:Business Management Suite** oferă următoarele avantaje pentru
+**1C:BusinessManagementSuite** oferă următoarele avantaje pentru
 factorii de decizie din compania dumneavoastră punând la dispoziție mai
 multe date și rapoarte printre care:
 
@@ -443,14 +442,14 @@ multe date și rapoarte printre care:
 
 -  alte rapoarte de gestiune.
 
-**1C:Business Management Suite** este o soluție care pot fi implementată
+**1C:BusinessManagementSuite** este o soluție care pot fi implementată
 și pregătită pentru funcționare într-o perioadă extrem de scurtă de
 timp.
 
 **1.3. Soluții pentru industrie**
 ---------------------------------
 
-**1C:Business Management Suite** este recomandat și se poate configura
+**1C:BusinessManagementSuite** este recomandat și se poate configura
 pentru automatizarea activității de gestiune și înregistrărilor
 contabile aferente pentru întreprinderile mici, în industria de
 servicii, producție și vânzări. Se poate configura pentru următoarele
@@ -501,16 +500,16 @@ doar niște exemple de afaceri potrivite pentru un astfel de sistem:
 
 -  agenții de turism.
 
-2. Principalele Butoane 1C:Business Management Suite
+2. Principalele Butoane 1C:BusinessManagementSuite
 ====================================================
 
 **\*Atenție!** Menţionăm încă de la început că modalităţile prezentate
 în acest manual nu exploatează toate facilităţile oferite de
-**1C:Business Management Suite**, având drept scop doar familiarizarea
+**1C:BusinessManagementSuite**, având drept scop doar familiarizarea
 cu funcțiile de bază ale produsului.
 
 Pentru a vă familiariza mai rapid cu modul de operare în sistemul
-**1C:Business Management Suite** vă va fi benefică cunoașterea
+**1C:BusinessManagementSuite** vă va fi benefică cunoașterea
 următoarelor explicaţii cu privire la "butoanele" și funcțiile pe care
 acestea le au.
 
@@ -788,7 +787,7 @@ trece mai departe apăsați butonul „Mai departe”.
 
 În cadrul următorului pas trebuie să introducem numele persoanelor
 responsabile din companie,persoanelor din conducere care folosesc
-**1C:Business Management Suite**. După ce am terminat editarea mergem la
+**1C:BusinessManagementSuite**. După ce am terminat editarea mergem la
 pasul următor cu ajutorul butonului „Mai departe”.
 
 |image27|
@@ -924,7 +923,7 @@ detaliată precum şi imagini. Acestea au atribuite un cod de evidență și
 o unitate de măsură după care pot fi sortate sau căutate cu ajutorul
 butonului „Căutare”.
 
-**1C:Business Management Suite** permite structurarea nomenclatoarelor
+**1C:BusinessManagementSuite** permite structurarea nomenclatoarelor
 de articole în grupuri şi subgrupuri în funcţie de nevoile
 dumneavoastră. Astfel, aveţi posibilitatea de a vizualiza nomenclatorul
 de articole atât ca structura arborescentă, dar şi ca listă pe fiecare
@@ -992,7 +991,7 @@ mai fi utilizate.
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 Clasificatorul unităților de măsura este catalogul în care sunt salvate
-toate unitățile de măsura din 1C:Business Management Suite destinate
+toate unitățile de măsura din 1C:BusinessManagementSuite destinate
 lucrului. Acestea sunt folosite în majoritatea documentelor.
 
 |image50|
@@ -1049,10 +1048,10 @@ grupei dorite.
 
 |image54|
 
-Funcția sistemului **1C:Business Management Suite** pentru preluarea
+Funcția sistemului **1C:BusinessManagementSuite** pentru preluarea
 automată a informațiilor:
 
-Aplicația **1C:Business Management Suite** pentru a opera mai simplu și
+Aplicația **1C:BusinessManagementSuite** pentru a opera mai simplu și
 într-un timp cât mai scurt are integrate câteva funcții de preluare a
 informațiilor de pe anumite site-uri oficiale din România. Preluarea
 automata a informațiilor de contact ale partenerilor, clienților,
@@ -1110,7 +1109,7 @@ aceasta.
 
 |image62|
 
-Sistemul informațional 1C:Business Management Suite are integrat un
+Sistemul informațional 1C:BusinessManagementSuite are integrat un
 sistem de preluare automată a cursurilor valutare de pe site-ul Băncii
 Naționale a României (`www.bnr.ro <http://www.bnr.ro>`__). Astfel,
 pentru a prelua cursurile selectăm „Încărcare cursuri valutare.”
@@ -1136,11 +1135,11 @@ selectarea „Cursurile valutelor”.
 
 |image66|
 
-6. Module 1C:Business Management Suite
+6. Module 1C:BusinessManagementSuite
 ======================================
 
 Pentru a opera mai eficient și pentru o funcționare mai bună, sistemul
-**1C:Business Management Suite** este structurat pe mai multe module
+**1C:BusinessManagementSuite** este structurat pe mai multe module
 astfel: Vânzări, Achiziții, Servicii, Producție, Mijloace bănești,
 Salarizare și personal, Întreprindere, Analiza, Administrare. Aceste
 module sunt strâns legate între ele ,astfel dacă modificăm un element
@@ -1257,7 +1256,7 @@ informații din documentul de bază.
 
 După ce terminați de completat și editat factura trebuie salvată și
 validată cu ajutorul butoanelor „Salvare” și „Validare”, pentru a ajunge
-în evidența contabilă din sistemul **1C:Business Management Suite.**
+în evidența contabilă din sistemul **1C:BusinessManagementSuite.**
 
 Pentru a vizualiza forma de printare și a printa eventual factura creată
 trebuie acționat butonul „Imprimare”.
@@ -1628,7 +1627,7 @@ documentul de bază.
 
 După ce terminați de completat și editat factura trebuie salvată și
 validată cu ajutorul butoanelor „Validare și închidere” pentru a ajunge
-în evidența contabilă din sistemul **1C:Business Management Suite.**
+în evidența contabilă din sistemul **1C:BusinessManagementSuite.**
 
 Pentru a vizualiza forma de printare și a printa eventual factura creată
 trebuie acționat butonul „Imprimare”.
@@ -2021,7 +2020,7 @@ indirecte, a cifrei de afaceri, și a vânzărilor planificate.
 6.8.1. Rapoarte pentru analiză
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**1C:Business Management Suite** dispune de o serie de rapoarte pentru
+**1C:BusinessManagementSuite** dispune de o serie de rapoarte pentru
 analiza activității companiei dumneavoastră pentru a putea lua deciziile
 cele mai bune în cel mai scurt timp.
 
@@ -2103,7 +2102,7 @@ ca bază de calcul salarial.
 
 |image176|
 
-**1C:Business Management Suite** oferă automatizarea completă a
+**1C:BusinessManagementSuite** oferă automatizarea completă a
 proceselor de vânzări pentru o varietate de scenarii de vânzare: vânzări
 de stoc, vânzări la comandă, vânzările pe credit, vânzările în avans,
 vânzările de produse pe bază de comision, vânzările cu amănuntul și
@@ -2120,11 +2119,11 @@ așa mai departe.
 9. Planificarea vânzărilor
 ==========================
 
-**1C:Business Management Suite** generează întregul set de documente
+**1C:BusinessManagementSuite** generează întregul set de documente
 necesare pentru a încheia o vânzare, cum ar fi facturile de vânzare
 ,facturi proforme și documente de încasare.
 
-**1C:Business Management Suite** facilitează crearea de planuri de
+**1C:BusinessManagementSuite** facilitează crearea de planuri de
 vânzări de orice dimensiune, de la planul de vânzare al întregii
 companii, a unui anumit departament sau al unui singur angajat.
 
@@ -2145,14 +2144,14 @@ vânzări disponibile. Acestea includ filtrare după diferite elemente
 
 |image180|
 
-**1C:Business Management Suite** poate face inventarul pentru mai multe
+**1C:BusinessManagementSuite** poate face inventarul pentru mai multe
 magazine și depozite în același timp. Acesta include o gestiune
 detaliată pe rafturi de depozitare, celule, sau diferite elemente
 specifice fiecărei firme în parte.
 
 |image181|
 
-**1C:Business Management Suite** acceptă o varietate de opțiuni pentru
+**1C:BusinessManagementSuite** acceptă o varietate de opțiuni pentru
 reaprovizionare, inclusiv cheltuielile obișnuite, achizițiile realizate
 de către entitățile care răspund de depozitare, transport, și care
 primesc materii prime. Sumele necesare pentru a reface stocul sunt
@@ -2167,7 +2166,7 @@ Metodele de evaluare a stocurilor sunt:
 
 -  CMP (Cost Mediu Ponderat).
 
-**1C:Business Management Suite** acceptă contabilizarea separată pentru
+**1C:BusinessManagementSuite** acceptă contabilizarea separată pentru
 depozite și operațiuni financiare. Acest lucru simplifică documentele în
 următoarele cazuri:
 
@@ -2183,7 +2182,7 @@ următoarele cazuri:
 **9.2. Calendar de plată**
 --------------------------
 
-**1C:Business Management Suite** facilitează contabilitatea financiară
+**1C:BusinessManagementSuite** facilitează contabilitatea financiară
 (care acoperă atât conturile bancare cât și activele în numerar ) și
 oferă un calendar de plată.
 
@@ -2200,13 +2199,13 @@ Calendarul de plată poate depista în mod clar orice plăți restante -
 acest raport este adesea cerut de proprietarii companiilor sau
 directorii financiari. Calendarul de plată este generat pe baza plăților
 și cheltuielilor programate și pe baza altor planuri financiare.
-**1C:Business Management Suite** vă permite să înregistrați încasările,
+**1C:BusinessManagementSuite** vă permite să înregistrați încasările,
 cheltuielile și transferurile, inclusiv operațiunile valutare.
 
 9.3. Relațiile cu clienții – claritate, fiabilitate, feedback 
 --------------------------------------------------------------
 
-**1C:Business Management Suite** oferă caracteristici CRM esențiale.
+**1C:BusinessManagementSuite** oferă caracteristici CRM esențiale.
 Aveți la dispoziție un istoric al relațiilor companiei atât cu actualii
 clienți, potențiali clienți cât și parteneri de afaceri, furnizori.
 Acest istoric poate conține apeluri telefonice, e-mailuri, întâlniri,
@@ -2232,14 +2231,14 @@ Acest lucru oferă companiei dumneavoastră următoarele avantaje :
 
 |image184|
 
-**1C:Business Management Suite** oferă un motor puternic pentru
+**1C:BusinessManagementSuite** oferă un motor puternic pentru
 adăugarea de noi domenii în baza de date client, astfel încât puteți să
 vă păstrați toate datele importante despre un client într-un singur loc
 de depozitare. De exemplu: puteți adăuga câmpuri pentru tipul de client,
 prioritate, regiune geografica, zona de afaceri, sau dimensiunea
 companiei . Nu sunt necesare cunoștințe de programare pentru adăugarea
 de noi domenii , care sunt ușor de adăugat în interfața utilizatorului.
-**1C:Business Management Suite** oferă o varietate de rapoarte extrem de
+**1C:BusinessManagementSuite** oferă o varietate de rapoarte extrem de
 personalizabile defalcate pe contacte, tipul de client , sau alte
 variabile.
 
@@ -2248,7 +2247,7 @@ variabile.
 10. Planificarea bugetului
 ==========================
 
-**1C:Business Management Suite** vă permite să stabiliți obiective
+**1C:BusinessManagementSuite** vă permite să stabiliți obiective
 financiare pentru compania dumneavoastră și să optimizați modul în care
 folosește resursele pentru a atinge aceste obiective.
 
@@ -2291,14 +2290,14 @@ Această caracteristică vă permite să:
 
 -  sunt necesare eforturi minime pentru a păstra datele sincronizate.
 
-Baza de date a magazinului on-line și **1C:Business Management Suite**
+Baza de date a magazinului on-line și **1C:BusinessManagementSuite**
 vor funcționa independent. Datele sunt importate la cerere în aplicație,
 existând și posibilitatea modificărilor manuale.
 
 10. Modificare forme de listare
 ===============================
 
-1C:Business Management Suite dispune de un instrument de modificare a
+1C:BusinessManagementSuite dispune de un instrument de modificare a
 șablonului formei de listare pe baza căruia se formează forma de
 imprimare. Această opțiune poate fi găsită pe modulul „Administrare” la
 „Forme de imprimare, rapoarte și prelucrare”→ „Machetele formelor de
@@ -2421,7 +2420,7 @@ Un avantaj al acestora este că permite efectuarea copiei bazei de date
 în timp ce utilizatorii lucrează fără să influențeze sau să perturbe
 activitatea acestora.
 
-Scenarii de implementare 1C:Business Management Suite
+Scenarii de implementare 1C:BusinessManagementSuite
 =====================================================
 
 Sc.1. Scenariu de implementare în cadrul unei companii cu tipul de activitate ,,Vânzări”
@@ -2429,7 +2428,7 @@ Sc.1. Scenariu de implementare în cadrul unei companii cu tipul de activitate ,
 
 Pentru o înțelegere mai bună a modului de implementare și fluxului
 documentelor vă punem la dispoziție următorul exemplu de implementare
-**1C:Business Management Suite** în compania cu tipul de activitate
+**1C:BusinessManagementSuite** în compania cu tipul de activitate
 ,,Vânzări”.
 
 Sc.1.1. Utilizatori
@@ -2587,7 +2586,7 @@ detaliate sau imagini. Acestora le sunt atribuite un cod de evidență și
 o unitate de măsură după care pot fi sortate sau căutate cu ajutorul
 butonului „Căutare”.
 
-**1C:Business Management Suite - Vânzări** permite structurarea
+**1C:BusinessManagementSuite - Vânzări** permite structurarea
 nomenclatorului de articole în grupuri şi subgrupuri în funcţie de
 nevoile dumneavoastră. Astfel, aveţi posibilitatea de a vizualiza
 nomenclatorul de articole atât ca structură arborescentă, dar şi ca
@@ -3036,10 +3035,10 @@ ajutorul documentului „Vânzare bunuri”;
 La sfârşitul lunii, banii din punctele de vânzare se transmit în casa
 principală a întreprinderii prin documentul „Transfer de numerar”.
 
-Sc.2.4. Descrierea procesului de producție în cadrul programului Business Management Suite – Producție.
+Sc.2.4. Descrierea procesului de producție în cadrul programului BusinessManagementSuite – Producție.
 -------------------------------------------------------------------------------------------------------
 
-Modulul Business Management Suite - Producție este un program ce descrie
+Modulul BusinessManagementSuite - Producție este un program ce descrie
 modalitatea de lucru a unei firme cu specificul Producție.
 
 |image245|
@@ -3399,7 +3398,7 @@ primească măsuri pentru micşorarea lor.
 
 |image307|
 
-Sc.3.Exemplu de implementare a sistemului informațional 1C:Business Management Suite în cadrul unei companii cu domeniul de activitate *„*\ Construcții\ *” *
+Sc.3. Exemplu de implementare a sistemului informațional "1C:BusinessManagementSuite" în cadrul unei companii cu domeniul de activitate *"*\ Construcții\ *” *
 =============================================================================================================================================================
 
 *.* În **1C:BMS Construcții** putem organiza evidenţa calculului
@@ -3575,21 +3574,6 @@ Informaţiile despre venituri, cheltuieli și profit le puteţi observa din
 raportul *„*\ Venituri și cheltuieli\ *”*
 
 |image326|
-
-Sc.3.2. Calcularea salariului
------------------------------
-
-Calculul salariului se reflectă în sistemul informațional prin actul
-*„*\ Calculul salariului\ *”,* din modulul *„*\ Salarizare și
-personal\ *”*. În baza documentului se completează cu atenţie câmpurile:
-
-Perioada de înregistrare – se indică luna, pentru care se calculează
-salariul.
-
-În tabel se indică angajații, numărul de ore lucrate, totalul orelor pe
-luna și suma salariului.
-
-|image327|
 
 
 .. |image0| image:: media/1c-at.png
@@ -4571,6 +4555,3 @@ luna și suma salariului.
 .. |image326| image:: media/image327.png
    :width: 5.608in
    :height: 2.43876in
-.. |image327| image:: media/image328.png
-   :width: 6.51887in
-   :height: 4.26415in
