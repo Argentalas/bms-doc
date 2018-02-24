@@ -3593,8 +3593,6 @@ luna și suma salariului.
 
 
 .. |image0| image:: media/1c-at.png
-   :width: 3.42847in
-   :height: 1.29861in
 .. |image1| image:: media/image3.png
    :width: 6.4087in
    :height: 3.83478in

@@ -10,7 +10,7 @@ Vă mulțumim,
 
 Echipa 1C-România S.C. „1C-Account Timbal” S.R.L.
 
-Web: `www.1C.ro <http://www.1C-Rom.ro/>`__
+Web: `www.1c.ro <http://www.1c.ro/>`__
 
 E-mail: `info@1C-Rom.ro <mailto:info@1C-Rom.ro>`__
 
@@ -20,12 +20,8 @@ Telefon suport: +40 733 066 385, +40 733 066 395
 
 S.C. „1C-Account Timbal” S.R.L
 
-NRC: J40/997/2012
-
-CUI: RO29617927
+CUI: RO29617927    NRC: J40/997/2012
 
 |image335|
 
 .. |image335| image:: media/1Cv8.png
-   :width: 2.83346in
-   :height: 1.0626in
