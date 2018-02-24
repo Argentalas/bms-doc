@@ -3399,7 +3399,7 @@ primească măsuri pentru micşorarea lor.
 |image307|
 
 Sc.3. Exemplu de implementare a sistemului informațional "1C:BusinessManagementSuite" în cadrul unei companii cu domeniul de activitate *"*\ Construcții\ *” *
-=============================================================================================================================================================
+================================================================================================================================================================
 
 *.* În **1C:BMS Construcții** putem organiza evidenţa calculului
 costului lucrărilor de construcţie cu un ciclu de lucru de lungă durată
