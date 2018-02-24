@@ -11,6 +11,7 @@ Welcome to bms-doc's documentation!
    :caption: Contents:
 
    bms.rst
+   concluzie.rst
 
 Indices and tables
 ==================

@@ -304,8 +304,6 @@ Management Suite în cadrul unei companii cu domeniul de activitate
 
 `Sc.3.3. Închiderea lunii 173 <#sc.3.3.-închiderea-lunii>`__
 
-`Concluzie 177 <#concluzie>`__
-
 **
 **
 
