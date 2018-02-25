@@ -261,14 +261,15 @@ server/baze de date .
 factorii de decizie din compania dumneavoastră punând la dispoziție mai
 multe date și rapoarte printre care:
 
--  flux de numerar;
--  calendar de plată;
--  profit și pierdere;
+-  fluxul de numerar;
+-  calendarul de plată;
+-  profitul și pierderea;
 -  datorii și creanțe;
 -  analiza dinamică a vânzărilor;
 -  planuri de lucru și alocarea resurselor;
 -  acces online la toate informațiile companiei dumneavoastră în timp real;
 -  alte rapoarte de gestiune.
+-  grafice si diagrame a situatiei financiare la zi.
 
 **1C:BusinessManagementSuite** este o soluție care pot fi implementată
 și pregătită pentru funcționare într-o perioadă extrem de scurtă de
