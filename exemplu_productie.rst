@@ -1,108 +1,73 @@
-Scenarii de implementare 1C:BusinessManagementSuite
+Scenarii de implementare "1C:BusinessManagementSuite"
 =====================================================
 
-Sc.2. Scenariu de implementare în cadrul unei companii cu tipul de activitate „Producție”
+Sc.2. Scenariu de implementare în cadrul unei companii cu tipul de activitate "Producție"
 =========================================================================================
 
 Sc.2.1. Descrierea Companiei
 ----------------------------
 
-Compania Fimo Effect SRL se ocupă cu producția de bijuterii hand-made
-realizate din Fimo.
+Compania "Fimo Effect" SRL se ocupă cu producția de bijuterii hand-made realizate din Fimo.
 
-Fimo este materialul preferat de către mulți din micii întreprinzători
-care își fac apariția la târgurile de moda, accesorii și hand-made,
-deoarece este foarte ușor de folosit pentru a crea orice fel de
-obiect:cercei, inele, brățari, coliere, etc.
+Fimo este materialul preferat de către mulți din micii întreprinzători care își fac apariția la târgurile de moda, accesorii și hand-made, deoarece este foarte ușor de folosit pentru a crea orice fel de obiect:cercei, inele, brățari, coliere, etc.
 
-Ce este Fimo? Fimo este o pastă pentru modelaj, cunoscută și sub numele
-de clei polimeric. Seamănă foarte mult cu plastilina copilăriei noastre,
-doar că este puțin mai ușor de modelat. Se întărește prin coacerea la o
-temperatură de 110-130 de grade Celsius, în aproximativ 30 minute ,în
-cuptoarele obișnuite de aragaz. Produsul final este rezistent la
-manipularea obișnuită și chiar la căderi, sau în urma spălării. După
-coacere, suprafața poate fi pictată și lăcuită.
+Ce este Fimo? Fimo este o pastă pentru modelaj, cunoscută și sub numele de clei polimeric. Seamănă foarte mult cu plastilina copilăriei noastre, doar că este puțin mai ușor de modelat. Se întărește prin coacerea la o temperatură de 110-130 de grade Celsius, în aproximativ 30 minute, în cuptoarele obișnuite de aragaz. Produsul final este rezistent la manipularea obișnuită și chiar la căderi, sau în urma spălării. După coacere, suprafața poate fi pictată și lăcuită.
 
-Sc.2.2. Schema de funcționare a activității companiei SC Fimo Effect SRL
-------------------------------------------------------------------------
+Sc.2.2. Schema de funcționare a activității companiei SC "Fimo Effect" SRL
+--------------------------------------------------------------------------
 
-Compania își procură materiile prime de la furnizorii care practică
-prețul cel mai convenabil pentru societate.
+Compania își procură materiile prime de la furnizorii care practică prețul cel mai convenabil pentru societate.
 
-Managerul de achiziții are în vedere ca o dată la două săptămâni să
-efectueaze revizia depozitului. Atunci când cantităţile din depozit sunt
-minimale, managerul se înțelege cu furnizorul pentru livrarea mărfii.
+Managerul de achiziții are în vedere ca o dată la două săptămâni să efectueaze revizia depozitului. Atunci când cantităţile din depozit sunt minimale, managerul se înțelege cu furnizorul pentru livrarea mărfii.
 
-Atunci când materia primă ajunge în întreprindere, managerul de
-achiziții trebuie să o înregistreze în depozit şi să transmită
-următoarele comenzi în secţia de producție. Managerul efectuează revizia
-depozitului, determina cantitatea de materie primă utilizată,
-supraveghează comenzile către furnizori și verifică sau efectuează
-plățile.
+Atunci când materia primă ajunge în întreprindere, managerul de achiziții trebuie să o înregistreze în depozit şi să transmită următoarele comenzi în secţia de producție. Managerul efectuează revizia depozitului, determina cantitatea de materie primă utilizată, supraveghează comenzile către furnizori și verifică sau efectuează plățile.
 
-Directorul departamentului de vânzări elaborează planul de vânzare şi
-planul de lucru al secţiei de producție.
+Directorul departamentului de vânzări elaborează planul de vânzare şi planul de lucru al secţiei de producție.
 
-Planul de producție se schimbă în funcție de comenzile urgent apărute.
-Producătorii articolelor Fimo își desfășoară activitatea conform
-planului de lucru.La sfârşitul zilei, șeful departamentului producție
-transmite produsele finite în depozit.
+Planul de producție se schimbă în funcție de comenzile urgent apărute. Producătorii articolelor Fimo își desfășoară activitatea conform planului de lucru.La sfârşitul zilei, șeful departamentului producție transmite produsele finite în depozit.
 
-Produsele finite se vor expedia la începutul săptămânii în reţelele de
-vânzare cu amănuntul, conform planului de vânzare aprobat de director.
+Produsele finite se vor expedia la începutul săptămânii în reţelele de vânzare cu amănuntul, conform planului de vânzare aprobat de director.
 
-Punctele de vânzare prezintă rapoarte de vânzări la sfârșitul
-săptămânii.Lunar, sumele încasate la punctele de vânzare se transmit
-către sediul companiei.
+Punctele de vânzare prezintă rapoarte de vânzări la sfârșitul săptămânii.Lunar, sumele încasate la punctele de vânzare se transmit către sediul companiei.
 
 Sc.2.3. Vânzarea de mărfuri prin reţeaua de comerț a companiei
 --------------------------------------------------------------
 
-Pentru fiecare punct de desfacere cu amănuntul, în program vor fi create
-depozitul şi casa. Este acceptată următoarea schemă de vânzare a mărfii
-la punctele de comercializare cu amănuntul:
+Pentru fiecare punct de desfacere cu amănuntul, în program vor fi create depozitul şi casa. Este acceptată următoarea schemă de vânzare a mărfii la punctele de comercializare cu amănuntul:
 
-La începutul săptămânii, articolele fabricate sunt expediate de la
-depozitul principal la depozitul punctului de vânzare, şi sunt
-înregistrate în documentul „Transfer stocuri”;
+la începutul săptămânii, articolele fabricate sunt expediate de la depozitul principal la depozitul punctului de vânzare, şi sunt înregistrate în documentul "Transfer stocuri";
 
-Se va înregistra încasarea sumelor în casa punctului de vânzare, cu
-ajutorul documentului „Vânzare bunuri”;
+se va înregistra încasarea sumelor în casa punctului de vânzare, cu ajutorul documentului "Vânzare bunuri";
 
-La sfârşitul lunii, banii din punctele de vânzare se transmit în casa
-principală a întreprinderii prin documentul „Transfer de numerar”.
+la sfârşitul lunii, banii din punctele de vânzare se transmit în casa principală a întreprinderii prin documentul "Transfer de numerar".
 
-Sc.2.4. Descrierea procesului de producție în cadrul programului BusinessManagementSuite – Producție.
--------------------------------------------------------------------------------------------------------
+Sc.2.4. Descrierea procesului de producție în cadrul programului "1C:BusinessManagementSuite – Producție"
+-----------------------------------------------------------------------------------------------------------
 
-Modulul BusinessManagementSuite - Producție este un program ce descrie
-modalitatea de lucru a unei firme cu specificul Producție.
+Modulul "1C:BusinessManagementSuite - Producție" este un program ce descrie modalitatea de lucru a unei firme cu specificul Producție.
 
 |image245|
 
-Setarea modulului „Producție” se realizează din meniul „Administrare”,
-„Producție”.
+Setarea modulului "Producție" se realizează din meniul "Administrare", "Producție".
 
 |image246|
 
 Sc.2.5. Întocmirea lanțului de documente în ceea ce privește achizițiile de materii prime
 -----------------------------------------------------------------------------------------
 
-Managerul convine cu furnizorul despre livrarea de materii prime și
-creează în program tot lanțul de documente specific achiziției:
+Managerul convine cu furnizorul despre livrarea de materii prime și creează în program tot lanțul de documente specific achiziției:
 
 |image247|
 
-„Factura proformă”
+"Factura proformă"
 
 |image248|
 
-„Cumpărări mărfuri și servicii”
+"Cumpărări mărfuri și servicii"
 
 |image249|
 
-După ce directorul aprobă furnizorului factura de plată, contabilul
-înregistrează plata cu ajutorul documentului „Plată bancară”.
+După ce directorul aprobă furnizorului factura de plată, contabilul înregistrează plata cu ajutorul documentului "Plată bancară".
 
 |image250|
 
@@ -120,24 +85,17 @@ Repartizarea cheltuielilor de transport asupra cantității de produse:
 Sc.2.7. Transmiterea materiilor prime în secţia principală de producţie
 -----------------------------------------------------------------------
 
-În baza cererii primite de la producători, managerul eliberează
-cantitatea necesară de Fimo din depozitul principal în secţia de
-producție. Înregistrează această operație cu ajutorul documentului
-„Transfer de stocuri”.
+În baza cererii primite de la producători, managerul eliberează cantitatea necesară de Fimo din depozitul principal în secţia de producție. Înregistrează această operație cu ajutorul documentului "Transfer de stocuri".
 
 |image253|
 
-Se adaugă în nomenclator produsul finit care se va obține, și se creează
-rețeta de fabricare a acestuia.
+Se adaugă în nomenclator produsul finit care se va obține, și se creează rețeta de fabricare a acestuia.
 
-Adăugarea în nomenclator a produsului finit precum și a prețului estimat
-de vânzare:
+Adăugarea în nomenclator a produsului finit precum și a prețului estimat de vânzare:
 
 |image254|
 
-Pentru crearea rețetei accesăm, „Specificații”, „Creare”, „Denumire
-Rețeta 1”, adăugăm materialul și nomenclatorul precum și cantitatea
-folosită.
+Pentru crearea rețetei accesăm, "Specificații", "Creare", "Denumire Rețeta 1", adăugăm materialul și nomenclatorul precum și cantitatea folosită.
 
 |image255|
 
@@ -145,7 +103,7 @@ Salvarea rețetei de producție
 
 |image256|
 
-Planificarea producţiei cu ajutorul documentului „Comanda de producţie”.
+Planificarea producţiei cu ajutorul documentului "Comanda de producţie".
 
 |image257|
 
@@ -153,38 +111,32 @@ Evidențierea materiilor prime folosite în procesul de producție
 
 |image258|
 
-Realizarea producției cu ajutorul butonului „Creare pe bază”.
+Realizarea producției cu ajutorul butonului "Creare pe bază".
 
 |image259|
 
 Sc.2.8. Controlul executării planului de producţie
 --------------------------------------------------
 
-Managerul controlează executarea planului de producţie cu ajutorul
-raportului „Comenzi de producţie”.
+Managerul controlează executarea planului de producţie cu ajutorul raportului "Comenzi de producţie".
 
 |image260|
 
-Raportul „Stocuri”
+Raportul "Stocuri"
 
 |image261|
 
 Sc.2.9. Transferul mărfii produse de la depozitul principal la depozitele punctelor de desfacere cu amănuntul
 -------------------------------------------------------------------------------------------------------------
 
-Conform planului aprobat de vânzări, managerul transferă marfa de la
-depozitul principal la depozitele de vânzare cu amănuntul, prin
-intermediul documentului „Transfer stocuri”.
+Conform planului aprobat de vânzări, managerul transferă marfa de la depozitul principal la depozitele de vânzare cu amănuntul, prin intermediul documentului "Transfer stocuri".
 
 |image262|
 
 Sc.2.10. Comercializarea mărfii la punctele de desfacere cu amănuntul
 ---------------------------------------------------------------------
 
-Administratorul punctelor de comercializare cu amănuntul înregistrează
-vânzările săptămânale cu ajutorul lanțului de documente: „Comandă
-client”, „Factură proformă emisă”, „Vânzare de bunuri”, „Încasare
-bancară”, „Casierie”.
+Administratorul punctelor de comercializare cu amănuntul înregistrează vânzările săptămânale cu ajutorul lanțului de documente: "Comandă client", "Factură proformă emisă", "Vânzare de bunuri", "Încasare bancară", "Casierie".
 
 |image263|
 
@@ -192,9 +144,7 @@ Emiterea facturii proforme
 
 |image264|
 
-În cazul în care cumpărătorul a plătit comanda, managerul eliberează
-marfa din depozit. Eliberarea mărfii se înregistrează în program prin
-documentul „Vânzare de bunuri”.
+În cazul în care cumpărătorul a plătit comanda, managerul eliberează marfa din depozit. Eliberarea mărfii se înregistrează în program prin documentul "Vânzare de bunuri".
 
 |image265|
 
@@ -205,9 +155,7 @@ documentul „Vânzare de bunuri”.
 Sc.2.11. Transferul încasărilor din punctele de vânzare cu amănuntul în casieria companiei
 ------------------------------------------------------------------------------------------
 
-La sfârşitul lunii administratorul punctelor de vânzare înregistrează
-transferurile financiare de la punctele de desfacere cu amănuntul în
-casa principală prin documentul „Transfer de numerar”.
+La sfârşitul lunii administratorul punctelor de vânzare înregistrează transferurile financiare de la punctele de desfacere cu amănuntul în casa principală prin documentul "Transfer de numerar".
 
 |image267|
 
@@ -217,17 +165,16 @@ Sc.2.12.Contabilul
 Sc.2.12.1 Cumpărarea valutei
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-După ce directorul aprobă factura de plată a furnizorului, contabilul
-acționează la procurarea valutei cu ajutorul a două documente: transferă
-banii de pe contul valută și îi aduce în casierie.
+După ce directorul aprobă factura de plată a furnizorului, contabilul acționează la procurarea valutei cu ajutorul a două documente: transferă banii de pe contul valută și îi aduce în casierie.
 
 Cumpărarea valutei - intrarea valutei în casierie
 
     |image268|
 
-    \ **Sc.2.12.2. Plata facturii furnizorului**
+Sc.2.12.2. Plata facturii furnizorului
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Contabilul înregistrează plata prin documentul „Ordin de plată”.
+Contabilul înregistrează plata prin documentul "Ordin de plată".
 
 |image269|
 
@@ -238,14 +185,11 @@ Plata datoriei către furnizor extern prin OP
 Sc.2.12.3 Realizarea cheltuielilor suplimentare pentru plata taxelor vamale
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Contabilul, în baza facturii de cumpărare înregistrează cheltuielile
-suplimentare pentru taxele vamale cu ajutorul documentului „Cheltuieli
-suplimentare”.
+Contabilul, în baza facturii de cumpărare înregistrează cheltuielile suplimentare pentru taxele vamale cu ajutorul documentului "Cheltuieli suplimentare".
 
 |image271|
 
-Repartizarea automată a serviciilor şi înregistrarea plăţii anticipate
-în documentul „Cheltuieli suplimentare”.
+Repartizarea automată a serviciilor şi înregistrarea plăţii anticipate în documentul "Cheltuieli suplimentare".
 
 |image272|
 
@@ -260,35 +204,32 @@ Crearea grupului de lucru
 
 |image274|
 
-Transferul materiilor prime din depozitul Biruinței în depozitul de
-Producție.
+Transferul materiilor prime din depozitul Biruinței în depozitul de Producție.
 
 |image275|
 
-Transferul de materii prime are la baza documentul „Transfer de
-inventar”.
+Transferul de materii prime are la baza documentul "Transfer de inventar".
 
 |image276|
 
-Programarea resurselor necesare pentru producție din meniul
-„Programator”
+Programarea resurselor necesare pentru producție din meniul "Programator"
 
 |image277|
 
-Realizarea „Comenzii de producție”
+Realizarea "Comenzii de producție"
 
 |image278|
 
-Crearea Rețetei nr 3 la fila „Specificații”
+Crearea Rețetei nr 3 la fila "Specificații"
 
 |image279|
 
-Completarea filei „Materiale”cu resursele necesare realizării
+Completarea filei "Materiale"cu resursele necesare realizării
 producției.
 
 |image280|
 
-Completarea filei „Resurse utilizate”
+Completarea filei "Resurse utilizate"
 
 |image281|
 
@@ -296,39 +237,36 @@ Desfășurarea programului de lucru
 
 |image282|
 
-Pe baza comenzii de producție realizam „Comanda furnizor”
+Pe baza comenzii de producție realizam "Comanda furnizor"
 
 |image283|
 
-Pe baza „Comandă funrizor” vom crea documentul „Cheltuieli de numerar”–
+Pe baza "Comandă funrizor" vom crea documentul "Cheltuieli de numerar"–
 efectuarea plății din casierie
 
 |image284|
 
-Realizarea „Producției”pe baza „Comenzii de producție”
+Realizarea "Producției"pe baza "Comenzii de producție"
 
 |image285|
 
-Repartizarea cheltuielilor cu ajutorul butonului „Creare pe baza” din
-„Comanda producție”
+Repartizarea cheltuielilor cu ajutorul butonului "Creare pe baza" din "Comanda producție"
 
 |image286|
 
-Pe fila „Stocuri” apăsăm „Completare conform normativelor și Repartizare
-conform cantității\ **”**.
+Pe fila "Stocuri" apăsăm "Completare conform normativelor și "Repartizare conform cantității".
 
-Pe fila „Cheltuieli” adăugăm suma aferentă contului de cheltuieli, după
-care apăsăm „Repartizare conform cantității”.
+Pe fila "Cheltuieli" adăugăm suma aferentă contului de cheltuieli, după care apăsăm "Repartizare conform cantității".
 
-Fila „Stocuri”
+Fila "Stocuri"
 
 |image287|
 
-Fila „Cheltuieli”
+Fila "Cheltuieli"
 
 |image288|
 
-Crearea „Fișei de lucru” pe baza „Comenzii de producție”
+Crearea "Fișei de lucru" pe baza "Comenzii de producție"
 
 |image289|
 
@@ -336,16 +274,15 @@ Adăugarea unei sarcini de producție
 
 |image290|
 
-Crearea „Sarcinii de producție”
+Crearea "Sarcinii de producție"
 
 |image291|
 
-Realizarea evidenței timpului de lucru prin apăsarea butonului „Creare
-pe baza Sarcinii”
+Realizarea evidenței timpului de lucru prin apăsarea butonului "Creare pe baza Sarcinii"
 
 |image292|
 
-Realizarea „Evenimentului”
+Realizarea "Evenimentului"
 
 |image293|
 
@@ -364,74 +301,62 @@ Factura proformă de vânzare
 
 |image296|
 
-Din documentul „Comanda de producţie” managerul tipăreşte documentul
-„Cerere la depozit”, în baza căruia eliberează producătorilor cantitatea
-necesară de Fimo.
+Din documentul "Comanda de producţie" managerul tipăreşte documentul "Cerere la depozit", în baza căruia eliberează producătorilor cantitatea necesară de Fimo.
 
-Tipărirea documentului „Cerere la depozit”:
+Tipărirea documentului "Cerere la depozit":
 
 |image297|
 
-Raportul **„Încasarea comenzilor de la clienți**\ ”
+Raportul *"Încasarea comenzilor de la clienți"*
 
 |image298|
 
 Sc.2.14. Informaţii despre vânzările reale
 ------------------------------------------
 
-Raportul *„*\ Profitul brut al vânzărilor\ *”*\ oferă informaţii despre
-încasări şi cantitate de marfă livrată, costul producţiei, venitul brut
-şi rentabilitatea.
+Raportul *"Profitul brut al vânzărilor"* oferă informaţii despre încasări şi cantitate de marfă livrată, costul producţiei, venitul brut şi rentabilitatea.
 
 |image299|
 
-Managerul întreprinderii poate controla plățile către furnizori și
-încasările de la clienți cu ajutorul raportului *„*\ Decontări
-reciproce\ *”*. Controlul plăţilor reciproce se efectuează pe parteneri,
-contracte, comenzi şi după documente.
+Managerul întreprinderii poate controla plățile către furnizori și încasările de la clienți cu ajutorul raportului *"Decontări reciproce"*. Controlul plăţilor reciproce se efectuează pe parteneri, contracte, comenzi şi după documente.
 
-„Decontări reciproce” privind încasările de la clienți
+"Decontări reciproce" privind încasările de la clienți
 
 |image300|
 
-Raportul „Analiza achitării facturilor proforme primite de la furnizori”
+Raportul "Analiza achitării facturilor proforme primite de la furnizori"
 
 |image301|
 
 Sc.2.15. Analiza veniturilor şi cheltuielilor
 ---------------------------------------------
 
-Directorul companiei poate analiza veniturile şi cheltuielile
-întreprinderii prin intermediul raportului *„*\ Venituri şi
-cheltuieli\ *”*.
+Directorul companiei poate analiza veniturile şi cheltuielile întreprinderii prin intermediul raportului *"Venituri şi cheltuieli"*.
 
 |image302|
 
 Sc.2.16. Rapoarte privind Producția
 -----------------------------------
 
-Cu ajutorul raportului *„*\ Analiza costului net\ *”*\ directorul poate
-primi operativ informaţia despre costul producţiei fabricate. Acest fapt
-îi permite să controleze cheltuielile de producţie şi imediat să
-primească măsuri pentru micşorarea lor.
+Cu ajutorul raportului *"Analiza costului net"* directorul poate primi operativ informaţia despre costul producţiei fabricate. Acest fapt îi permite să controleze cheltuielile de producţie şi imediat să primească măsuri pentru micşorarea lor.
 
-*„*\ Analiza costului net\ *”*
+*"Analiza costului net"*
 
 |image303|
 
-*„*\ Stocuri disponibile\ *”*
+*"Stocuri disponibile"*
 
 |image304|
 
-*„*\ Executarea lucrarilor, fabricarea producției\ *”*
+*"Executarea lucrarilor, fabricarea producției"*
 
 |image305|
 
-*„*\ Comenzi de producție\ *”*
+*"Comenzi de producție"*
 
 |image306|
 
-*„*\ Intrări și ieșiri de stocuri\ *”*
+*"Intrări și ieșiri de stocuri"*
 
 |image307|
 

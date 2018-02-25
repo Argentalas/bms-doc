@@ -3,13 +3,13 @@
 
 **Manual de utilizare al sistemului integrat "1C:BusinessManagementSuite"**
 
-**S.C. „1C-Account Timbal” S.R.L.**
+**S.C. "1C-Account Timbal" S.R.L.**
 
 **Cuprins:**
 
 `1. Introducere în 1C:BusinessManagementSuite 6 <#introducere-în-1cbusiness-management-suite>`__
 
-`1.1. Platforma „1C:Enterprise 8” 7 <#platforma-1centerprise-8>`__
+`1.1. Platforma "1C:Enterprise 8" 7 <#platforma-1centerprise-8>`__
 
 `1.2. Avantaje pentru factorii de decizie 7 <#avantaje-pentru-factorii-de-decizie>`__
 
@@ -225,16 +225,16 @@ schimbări.
 stații de lucru. Această aplicație de afaceri este distribuită standard
 dar poate fi folosită ca o bază pentru a dezvolta aplicații proprii. În
 scopul de a utiliza **1C:BusinessManagementSuite**, este necesar să
-dețineți sau să achiziționați licențe valabile „\ **1C:Enterprise 8”**.
+dețineți sau să achiziționați licențe valabile "\ **1C:Enterprise 8"**.
 
-**1.1. Platforma „1C:Enterprise 8”**
+**1.1. Platforma "1C:Enterprise 8"**
 ------------------------------------
 
 Sistemul **1C:BusinessManagementSuite** a fost dezvoltat pe platforma
-denumită **„1C:Enterprise 8”** care vă asigurăm că este o tehnologie de
+denumită **"1C:Enterprise 8"** care vă asigurăm că este o tehnologie de
 ultimă generație.
 
-Platforma **„1C:Enterprise 8”**, asigură:
+Platforma **"1C:Enterprise 8"**, asigură:
 
 -  flexibilitate;
 -  configurabilitate;
@@ -244,11 +244,11 @@ Platforma **„1C:Enterprise 8”**, asigură:
 -  suport al clienților;
 -  accesul utilizatorilor la distanță.
 
-Platforma **„1C:Enterprise 8”** este capabilă să ruleze aplicația în mod
+Platforma **"1C:Enterprise 8"** este capabilă să ruleze aplicația în mod
 **fișier** (toate datele sunt stocate într-o singură bază de date), și
 în modul client **server** (datele sunt stocate într-una din următoarele
 sisteme de gestionare a bazelor de date: Microsoft SQL Server,
-PostgreSQL, IBM DB2 și Oracle Database). **„1C:Enteprise 8”** în
+PostgreSQL, IBM DB2 și Oracle Database). **"1C:Enteprise 8"** în
 varianta server poate rula pe Microsoft Windows și sistemele de operare
 Linux . Acest lucru vă oferă diferite opțiuni de implementare și vă
 oferă opțiunea de a utiliza software-ul open-source pe partea de
@@ -323,13 +323,13 @@ acestea le au.
 Astfel, în majoritatea ferestrelor pentru a opera mai eficient în
 această aplicație o să fie prezente următoarele butoane:
 
-1. Butonul „\ **Adăugare**\ ” |image2| (Insert) are rolul de a adăuga nouă înregistrare în listă;
+1. Butonul "\ **Adăugare**\ " |image2| (Insert) are rolul de a adăuga nouă înregistrare în listă;
 
-2. Butonul „\ **Ștergere element curent**\ ” |image3| (Delete) șterge înregistrarea din listă;
+2. Butonul "\ **Ștergere element curent**\ " |image3| (Delete) șterge înregistrarea din listă;
 
-3. Butonul „\ **Creare**\ ” |image4| se folosește pentru a crea elemente noi;
+3. Butonul "\ **Creare**\ " |image4| se folosește pentru a crea elemente noi;
 
-4. Butonul „\ **Adăugare prin clonare**\ ” |image5| (F9). Este folosită
+4. Butonul "\ **Adăugare prin clonare**\ " |image5| (F9). Este folosită
    pentru uşurarea muncii și economisirea timpului de operare. Se poate
    folosi în cazul în care facem adăugarea în listă a unui nou document
    pe care îl utilizăm în mod frecvent şi multe informaţii rămân
@@ -342,41 +342,41 @@ această aplicație o să fie prezente următoarele butoane:
 cele care nu corespund cerințelor dumneavoastră trebuie modificate (cum
 ar fi: data, prețul, cantitatea, partenerul).
 
-5. Butonul „\ **Modificare element curent**\ ” |image6| (F2), după cum
+5. Butonul "\ **Modificare element curent**\ " |image6| (F2), după cum
    îi este şi denumirea, este util pentru modificarea anumitor
    informaţii sau documente;
 
-6. Butonul „\ **Marcare element pentru ștergere/Anulare marcare pentru
-   ștergere**\ ” |image7|\ (Delete). Marchează elementul pentru ștergere
+6. Butonul "\ **Marcare element pentru ștergere/Anulare marcare pentru
+   ștergere**\ " |image7|\ (Delete). Marchează elementul pentru ștergere
    în vederea ștergerii definitive. În acelaşi timp este folosit şi
    pentru anularea acestei marcări pentru ştergere;
 
 \*\ **Atenție!** Ștergerea definitivă se face de la secțiunea
-„Administrare →Ștergerea obiectelor marcate”.
+"Administrare →Ștergerea obiectelor marcate".
 
-7.  Butonul „\ **Selectare**\ ” |image8| (**F4**) deschide un catalog în
+7.  Butonul "\ **Selectare**\ " |image8| (**F4**) deschide un catalog în
     vederea selectării unui articol sau a unei informații;
 
-8.  Butonul „\ **Deschide**\ ” |image9| (**Ctrl+Shift+F4**) deschide o
+8.  Butonul "\ **Deschide**\ " |image9| (**Ctrl+Shift+F4**) deschide o
     filă în care pot fi introduse sau modificate anumite informații sau
     detalii;
 
-9.  Butonul „\ **Setează interval de timp**\ ” |image10|\ este folosit
+9.  Butonul "\ **Setează interval de timp**\ " |image10|\ este folosit
     pentru setarea intervalului de timp. De exemplu, dacă dorim ca din
     lista de facturi de aprovizionare să le vizualizăm doar pe cele
     dintr-o anumită perioadă, putem seta perioada dorită;
 
-10. Butonul „\ **Anulează setare interval de timp**\ ”
+10. Butonul "\ **Anulează setare interval de timp**\ "
     |image11|\ anulează efectul butonului de la punctul 9;
 
-11. Butonul „\ **Deschiderea serviciului asistenta**\ ”
+11. Butonul "\ **Deschiderea serviciului asistenta**\ "
     |image12|\ deschide un ghid de asistența al programului;
 
-12. Butonul „\ **Căutare**\ ” |image13|\ (Ctrl+F) se folosește pentru a
+12. Butonul "\ **Căutare**\ " |image13|\ (Ctrl+F) se folosește pentru a
     găsi mai ușor în listă valorile care vă interesează la un moment
     dat.
 
-13. Butonul „\ **Creare pe baza**\ ” |image14| este util pentru
+13. Butonul "\ **Creare pe baza**\ " |image14| este util pentru
     economisirea timpului de introducere a datelor informaționale în
     program. Astfel, pe baza unui document creat se pot prelua datele în
     alte tipuri de documente nemaifiind necesar să introducem din nou
@@ -392,11 +392,11 @@ ar fi: data, prețul, cantitatea, partenerul).
 programului şi are funcţii diferite în funcție de locul unde este
 amplasat.
 
-14. Butonul „\ **Imprimare**\ ”\ |image15| deschide meniul din care
+14. Butonul "\ **Imprimare**\ "\ |image15| deschide meniul din care
     urmează să alegeți un formular de printare pentru diferite documente
     din sistem;
 
-15. Butonul „\ **Rapoarte**\ ” |image16| deschide meniul din care se pot
+15. Butonul "\ **Rapoarte**\ " |image16| deschide meniul din care se pot
     crea diferite rapoarte pe baza datelor din sistem.
 
 3. Utilizatori
@@ -420,24 +420,24 @@ nici un acces la salarii sau la datele financiare.
 3.1. Creare utilizatori
 -----------------------
 
-Pentru a crea un utilizator nou trebuie să intrăm la „Administrare” la
-secțiunea „Setări generale” și selectăm „Administrare utilizatori și
-setare drepturi → Utilizatori”. Cu ajutorul butonului „Creare” se
+Pentru a crea un utilizator nou trebuie să intrăm la "Administrare" la
+secțiunea "Setări generale" și selectăm "Administrare utilizatori și
+setare drepturi → Utilizatori". Cu ajutorul butonului "Creare" se
 deschide fereastra pentru completarea informațiilor despre noul
-utilizator. Completăm câmpul „Nume complet”, iar pentru a permite
+utilizator. Completăm câmpul "Nume complet", iar pentru a permite
 accesul utilizatorului la baza de date trebuie selectată opțiunea
-„Accesul la baza informațională este permis” care activează fila
-„Proprietăți principale”. Dacă nu activăm această opțiune sistemul
-permite doar completarea câmpului „Nume complet” adresa de e-mail,
+"Accesul la baza informațională este permis" care activează fila
+"Proprietăți principale". Dacă nu activăm această opțiune sistemul
+permite doar completarea câmpului "Nume complet" adresa de e-mail,
 telefonul și salvarea utilizatorului fără a avea acces la baza
 informațională.
 
-După ce am activat opțiunea „Accesul la baza informațională este permis”
-câmpul „Login(pentru intrare)” se completează automat cu valoarea de la
-„Nume complet”. Dacă se dorește, această valoare poate fi editată pentru
+După ce am activat opțiunea "Accesul la baza informațională este permis"
+câmpul "Login(pentru intrare)" se completează automat cu valoarea de la
+"Nume complet". Dacă se dorește, această valoare poate fi editată pentru
 o evidență mai bună a utilizatorilor în lista de selectare. Pentru a
-interzice accesul sau a anula un utilizator există opțiunea „Utilizator
-inactiv” care păstrează setările și datele despre acesta. Astfel, când
+interzice accesul sau a anula un utilizator există opțiunea "Utilizator
+inactiv" care păstrează setările și datele despre acesta. Astfel, când
 se dorește reactivarea acestui utilizator toate setările precedente sunt
 din nou active.
 
@@ -445,14 +445,14 @@ din nou active.
 
 Se poate seta o parolă pentru fiecare utilizator cu opțiunea ca
 utilizatorul să poată sau nu să o modifice. Pentru a seta o parolă
-bifați „Autentificarea 1C:Întreprindere” și completați parola în câmpul
-„Parola” și reintroduceți aceeași parolă în câmpul „Confirmarea
-parolei”. Dacă, folosiți serviciul OpenID bifați opțiunea
-„Autentificarea prin protocolul OpenID” pentru a vă loga în aplicație cu
+bifați "Autentificarea 1C:Întreprindere" și completați parola în câmpul
+"Parola" și reintroduceți aceeași parolă în câmpul "Confirmarea
+parolei". Dacă, folosiți serviciul OpenID bifați opțiunea
+"Autentificarea prin protocolul OpenID" pentru a vă loga în aplicație cu
 ajutorul acesteia.
 
-Opțiunea „Autentificare automată pe baza utilizatorului sistemului de
-operare” permite ca un utilizator din aplicație să fie conectat la un
+Opțiunea "Autentificare automată pe baza utilizatorului sistemului de
+operare" permite ca un utilizator din aplicație să fie conectat la un
 utilizator al sistemului de operare.
 
 Astfel, la autentificare nu mai este nevoie de introducerea
@@ -461,14 +461,14 @@ cu utilizatorul din aplicație legat la utilizatorul activ al sistemului
 de operare.
 
 Salvarea utilizatorilor se face prin apăsare butonului de salvare
-|image18| sau selectând „Salvare și închidere” care salvează și închide
+|image18| sau selectând "Salvare și închidere" care salvează și închide
 fereastră curentă.
 
 |image19|
 
-Pe fila „Adrese și numere de telefon” putem completa informațiile de
+Pe fila "Adrese și numere de telefon" putem completa informațiile de
 contact ale utilizatorilor. Pentru a adăuga mai multe informații despre
-un utilizator apăsați pe „Adăugare” și selectați ce anume doriți să
+un utilizator apăsați pe "Adăugare" și selectați ce anume doriți să
 completați, astfel o să fie adăugat un nou câmp pe fila respectivă.
 
 3.2. Drepturi de acces
@@ -479,7 +479,7 @@ Drepturi de bază, Mijloace bănești, Salariu, Sincronizarea datelor cu
 alte programe.
 
 Pentru a seta un drept de acces sau mai multe selectați în căsuța
-corespondentă drepturile și apăsați „Înregistrare”.
+corespondentă drepturile și apăsați "Înregistrare".
 
 |image20|
 
@@ -522,11 +522,11 @@ Astfel, pentru fiecare opțiune sunt disponibile următoarele module:
 4.Setările inițiale ale bazei de date
 =====================================
 
-Configurarea bazei de date se face din modulul „Administrare” unde avem
+Configurarea bazei de date se face din modulul "Administrare" unde avem
 trei secțiuni diferite:
 
-„Setări de gestiune”, „Setări generale” și „Alte setări de
-sistem”.Pentru o gestiune corectă trebuie să configurăm sistemul în
+"Setări de gestiune", "Setări generale" și "Alte setări de
+sistem".Pentru o gestiune corectă trebuie să configurăm sistemul în
 funcție de specificul firmei, de activitatea pe care o desfășoară și de
 cerințele și nevoile fiecărei organizații.
 
@@ -537,8 +537,8 @@ cerințele și nevoile fiecărei organizații.
 
 În aceeași baza de date poate fi tinută evidența pentru mai multe
 organizații. Pentru a activa această opțiune intrați în meniul
-„Administrare – Întreprindere” și selectați opțiunea „Ține evidența în
-baza informațională pentru mai multe organizații”.
+"Administrare – Întreprindere" și selectați opțiunea "Ține evidența în
+baza informațională pentru mai multe organizații".
 
 |image22|
 
@@ -551,7 +551,7 @@ Pentru mai multe informații despre cum puteți lua legătura cu noi găsiți
 5. Introducerea informațiilor și soldurilor inițiale ale organizației
 =====================================================================
 
-„\ **Desktop**\ ” conține o structură grafică intuitivă a aplicației de
+"\ **Desktop**\ " conține o structură grafică intuitivă a aplicației de
 navigare ușoară care permite introducerea datelor inițiale și
 configurarea sistemului foarte rapid și foarte simplu. Nu este nevoie de
 a fi un specialist în contabilitate sau în contabilitate fiscală pentru
@@ -568,46 +568,46 @@ datelor de bază ale societății.
 ----------------------------------------------------
 
 Pentru a completa datele organizației selectați prima opțiune și anume
-„Completați informațiile organizației”.
+"Completați informațiile organizației".
 
 |image23|
 
 La primul pas trebuie să selectați tipul de persoană, respectiv juridică
 sau fizică. După ce ați selectat trecem la pasul următor apăsând butonul
-„Mai departe”.
+"Mai departe".
 
 |image24|
 
 La pasul al doilea trebuie completată denumirea firmei în funcție de
 cerințele care sunt pe fiecare rând. Pentru a trece la pasul următor
-apăsați butonul „Mai departe”.
+apăsați butonul "Mai departe".
 
 |image25|
 
 În cadrul acestui pas trebuie completate datele organizației. Pentru a
-trece mai departe apăsați butonul „Mai departe”.
+trece mai departe apăsați butonul "Mai departe".
 
 |image26|
 
 În cadrul următorului pas trebuie să introducem numele persoanelor
 responsabile din companie,persoanelor din conducere care folosesc
 **1C:BusinessManagementSuite**. După ce am terminat editarea mergem la
-pasul următor cu ajutorul butonului „Mai departe”.
+pasul următor cu ajutorul butonului "Mai departe".
 
 |image27|
 
 La pasul cinci suntem anunțați ca au fost completate cu succes
 informațiile despre companie urmând a fi salvate prin butonul
-„Completare finalizată”.
+"Completare finalizată".
 
 |image28|
 
-Pentru a doua variantă „Persoană fizică - întreprinzător” pasul 2 este
+Pentru a doua variantă "Persoană fizică - întreprinzător" pasul 2 este
 diferit, restul se completează la fel ca la persoana juridică.
 
 |image29|
 
-Completați informațiile despre „Persoana fizică - întreprinzător” așa
+Completați informațiile despre "Persoana fizică - întreprinzător" așa
 cum trebuie să apară în documentele oficiale.
 
 |image30|
@@ -619,17 +619,17 @@ mai departe introducerea soldurilor inițiale.
 ---------------------------------
 
 Pentru a introduce soldurile inițiale într-un mod rapid selectăm a doua
-opțiune de pe desktop și anume „Completați soldurile inițiale ale
-organizației”, unde avem două variante „Simplu” sau „Extins”.Recomandat
+opțiune de pe desktop și anume "Completați soldurile inițiale ale
+organizației", unde avem două variante "Simplu" sau "Extins".Recomandat
 este să folosiți regimul de utilizare simplu. Pentru a trece mai departe
-la următorul pas apăsați butonul „Pasul următor”.
+la următorul pas apăsați butonul "Pasul următor".
 
 |image31|
 
 În cadrul acestui pas trebuie completate soldurile inițiale ale
 mijloacelor bănești atât din bănci cât și din casierii. Pentru a adăuga
-noi valori în listă apăsați butonul „Adăugare” din stânga ferestrei sau
-tasta „Insert ” de la tastatură. Ca efect se va deschide fereastra de
+noi valori în listă apăsați butonul "Adăugare" din stânga ferestrei sau
+tasta "Insert " de la tastatură. Ca efect se va deschide fereastra de
 mai jos.
 
 |image32|
@@ -638,13 +638,13 @@ Selectați valoarea tipului de date.
 
 |image33|
 
-Pentru a adăuga un cont bancar nou selectați „Creare” sau apăsați
-butonul „Insert” de la tastatură.
+Pentru a adăuga un cont bancar nou selectați "Creare" sau apăsați
+butonul "Insert" de la tastatură.
 
 |image34|
 
-Completați informațiile contului bancar apoi salvați cu „Salvare și
-închidere”.
+Completați informațiile contului bancar apoi salvați cu "Salvare și
+închidere".
 
 |image35|
 
@@ -669,7 +669,7 @@ cumpărătorii.
 |image38|
 
 La ultimul pas sunteți anunțat că ați introdus soldurile cu succes,
-salvați prin apăsarea butonului „Completare finalizată”.
+salvați prin apăsarea butonului "Completare finalizată".
 
 |image39|
 
@@ -677,17 +677,17 @@ După parcurgerea acestor pași de introducere, aceasta fereastră se
 închide, datele fiind salvate în sistemul **1C:Business Management
 Suite**.
 
-Dacă alegeți regimul „Extins” pasul 1 și pasul 2 vor avea câteva opțiuni
+Dacă alegeți regimul "Extins" pasul 1 și pasul 2 vor avea câteva opțiuni
 suplimentare ce sunt prezentate mai jos.
 
 |image40|
 
 Astfel, înainte de a completa soldurile inițiale ale mijloacelor bănești
 trebuie selectate opțiunile referitoare la valute. Dacă doriți să
-utilizați mai multe valute selectați opțiunea „Da”.
+utilizați mai multe valute selectați opțiunea "Da".
 
-La „Valuta națională” selectați valuta din țara în care este utilizat
-sistemul informațional, iar la „Valuta evidenței din sistem” selectați
+La "Valuta națională" selectați valuta din țara în care este utilizat
+sistemul informațional, iar la "Valuta evidenței din sistem" selectați
 valuta în care doriți să se facă înregistrările și în care aveți nevoie
 de rapoarte de evidență.
 
@@ -704,19 +704,19 @@ stocurilor.
 
 Pentru a putea vizualiza soldurile inițiale ce au fost introduse cu
 ajutorul acestui ghid de trebuie să mergem pe compartimentul
-„Întreprindere”și selectăm „Introducerea soldurilor inițiale”, apoi
+"Întreprindere"și selectăm "Introducerea soldurilor inițiale", apoi
 selectăm înregistrarea pe care dorim să o vizualizăm sau edităm.
 
 |image43|
 
-Pentru a vedea mișcările din registre există opțiunea „Raport privind
-mișcările”.
+Pentru a vedea mișcările din registre există opțiunea "Raport privind
+mișcările".
 
 5.3. Clasificatoare
 -------------------
 
-Pe anumite modulele „Vânzări, Achiziții, Servicii, Producție” la
-secțiunea „Clasificatoare” avem prezente următoarele cataloage:
+Pe anumite modulele "Vânzări, Achiziții, Servicii, Producție" la
+secțiunea "Clasificatoare" avem prezente următoarele cataloage:
 
 5.3.1. Nomenclator
 ~~~~~~~~~~~~~~~~~~
@@ -725,7 +725,7 @@ Catalogul "Nomenclator" este destinat pentru crearea articolelor şi
 ataşării acestora a diverselor atribute, caracteristici, descriere
 detaliată precum şi imagini. Acestea au atribuite un cod de evidență și
 o unitate de măsură după care pot fi sortate sau căutate cu ajutorul
-butonului „Căutare”.
+butonului "Căutare".
 
 **1C:BusinessManagementSuite** permite structurarea nomenclatoarelor
 de articole în grupuri şi subgrupuri în funcţie de nevoile
@@ -745,17 +745,17 @@ confundabile acestea pot fi asociate cu imagini. În afară de denumire,
 suplimentar puteţi utiliza codul articol şi/sau un număr nelimitat de
 coduri de bare, pentru identificare articolelor.
 
-Catalogul „Nomenclator” este structurat pe baza a trei file și anume:
-„Informații generale”, „Parametri de achiziție” și „Parametrii de
-stocare”
+Catalogul "Nomenclator" este structurat pe baza a trei file și anume:
+"Informații generale", "Parametri de achiziție" și "Parametrii de
+stocare"
 
-La adăugarea unui articol nou trebuie completată „Denumirea
-prescurtată”, aceea care o vizualizăm în programul de gestiune și
-„Denumirea completă”- cea care apare pe formele de listare (facturi,
+La adăugarea unui articol nou trebuie completată "Denumirea
+prescurtată", aceea care o vizualizăm în programul de gestiune și
+"Denumirea completă"- cea care apare pe formele de listare (facturi,
 avize, NIR etc.). De asemenea, se va alege tipul nomenclatorului care
 poate fi: stoc, serviciu, lucrare, tip de lucrare și cheltuială. După
 alegerea unui tip de nomenclator și salvarea acestuia, înregistrarea
-elementului „Tip” nu mai poate fi modificată.
+elementului "Tip" nu mai poate fi modificată.
 
 |image45|
 
@@ -767,14 +767,14 @@ unitate de măsură găsiți informații în capitolul următor.
 |image46|
 
 Dacă doriți să țineți evidența nomenclatorului pe caracteristici trebuie
-să intrați pe fila „Parametrii de stocare”și selectați opțiunea
-„Utilizare caracteristici”, după care trebuie să salvați nomenclatorul
-și să vă întoarceți la „Caracteristici” pentru completarea acestora.
+să intrați pe fila "Parametrii de stocare"și selectați opțiunea
+"Utilizare caracteristici", după care trebuie să salvați nomenclatorul
+și să vă întoarceți la "Caracteristici" pentru completarea acestora.
 
 |image47|
 
 Pentru a vizualiza soldul disponibil dintr-un anumit nomenclator mergem
-pe raportul„Soldurile disponibile”, după care trebuie să salvăm
+pe raportul"Soldurile disponibile", după care trebuie să salvăm
 modificarea și putem adăuga caracteristici. Caracteristicile sunt
 reprezentate de: culoare, detalii tehnice, dimensiuni, funcții. Astfel,
 dacă de exemplu, trei telefoane mobile având aceeași marcă, același
@@ -802,20 +802,20 @@ lucrului. Acestea sunt folosite în majoritatea documentelor.
 
 Pentru a adăuga o unitate de măsură în listă există două variante:
 
--  Fie cu ajutorul butonului „Creare” și completăm fiecare câmp al
+-  Fie cu ajutorul butonului "Creare" și completăm fiecare câmp al
    catalogului;
 
     |image51|
 
 -  Fie selectând-o din clasificatorul unităților de măsură
-   internaționale care există în program și apăsând „OK”.
+   internaționale care există în program și apăsând "OK".
 
 |image52|
 
 5.3.3. Parteneri
 ~~~~~~~~~~~~~~~~
 
-Catalogul „Parteneri”conţine informaţii referitoare la partenerii cu
+Catalogul "Parteneri"conţine informaţii referitoare la partenerii cu
 care societatea dumneavoastră are relaţii economice. În calitate de
 partener poate fi specificată orice persoană juridică sau persoană
 fizică (mai puţin salariatul firmei).
@@ -881,15 +881,15 @@ partener**".
 
 -  **Grupuri de lucru**
 
-Catalogul „Grupuri de lucru” are rolul de a crea grupuri de angajați în
+Catalogul "Grupuri de lucru" are rolul de a crea grupuri de angajați în
 vederea împărțirii acestora după anumite proiecte sau pe diferite
 departamente. Așadar, pentru a crea un grup de lucru, trebuie să apăsați
-butonul „Creare”.
+butonul "Creare".
 
 |image58|
 
 Pentru a crea un grup de lucru trebuie să îl denumiți și să adăugați
-angajații din care este compus din catalogul „Angajați”.
+angajații din care este compus din catalogul "Angajați".
 
 |image59|
 
@@ -897,18 +897,18 @@ angajații din care este compus din catalogul „Angajați”.
 ~~~~~~~~~~~~~
 
 Pentru a vizualiza valutele existente în sistemul informațional există
-două variante: mergem pe compartimentul „Mijloace bănești și selectăm
-„Valute” sau pe compartimentul „Întreprindere”și selectând
-„Clasificatoare”→ „Valute”.
+două variante: mergem pe compartimentul "Mijloace bănești și selectăm
+"Valute" sau pe compartimentul "Întreprindere"și selectând
+"Clasificatoare"→ "Valute".
 
 |image60|
 
-Pentru a adăuga o valută în listă apăsăm „Selectare din clasificator” și
+Pentru a adăuga o valută în listă apăsăm "Selectare din clasificator" și
 adăugăm valutele dorite.
 
 |image61|
 
-Pentru a crea o valută apăsăm „Creare” și completăm informațiile despre
+Pentru a crea o valută apăsăm "Creare" și completăm informațiile despre
 aceasta.
 
 |image62|
@@ -916,7 +916,7 @@ aceasta.
 Sistemul informațional 1C:BusinessManagementSuite are integrat un
 sistem de preluare automată a cursurilor valutare de pe site-ul Băncii
 Naționale a României (`www.bnr.ro <http://www.bnr.ro>`__). Astfel,
-pentru a prelua cursurile selectăm „Încărcare cursuri valutare.”
+pentru a prelua cursurile selectăm "Încărcare cursuri valutare."
 
 |image63|
 
@@ -926,16 +926,16 @@ pentru a prelua cursurile selectăm „Încărcare cursuri valutare.”
 |image64|
 
 După adăugarea acestora setăm perioada pentru care să se facă încărcarea
-și apăsăm „Încărcare”.
+și apăsăm "Încărcare".
 
 După încărcarea cursurilor aferente valutelor selectate, mergem pe
-valuta respectivă și apăsăm butonul „Modificare”pentru a vizualiza
+valuta respectivă și apăsăm butonul "Modificare"pentru a vizualiza
 cursurile valutare din listă.
 
 |image65|
 
 Istoricul cursului pentru fiecare valută poate fi vizualizat prin
-selectarea „Cursurile valutelor”.
+selectarea "Cursurile valutelor".
 
 |image66|
 
@@ -965,26 +965,26 @@ instrumente de gestionare a vânzărilor.
 
 Lista comenzilor clienților o putem vedea la fel ca și celelalte
 elemente (facturi proforme de vânzare, vânzări de bunuri, facturi
-fiscale de vânzare, etc.) dând un singur click pe modul de „Vânzări” la
-secțiunea „Vânzări” pe „Comenzi clienți”.Astfel, vom avea acces la lista
+fiscale de vânzare, etc.) dând un singur click pe modul de "Vânzări" la
+secțiunea "Vânzări" pe "Comenzi clienți".Astfel, vom avea acces la lista
 de comenzi ale cumpărătorilor unde vom putea vizualiza data la care s-a
 făcut comanda, numărul care i-a fost atribuit, numele partenerului,
 statutul acesteia și suma, de asemenea se poate filtra după anumite
 valori pentru a putea fi găsite mai ușor. Pentru a adăuga o nouă comandă
-de la client selectăm butonul „Creare”.
+de la client selectăm butonul "Creare".
 
 |image68|
 
-Lista de comenzi dispune de o filtrare rapidă după „Partener”,
-„Responsabil”, „Statut”, „Actualitate”.
+Lista de comenzi dispune de o filtrare rapidă după "Partener",
+"Responsabil", "Statut", "Actualitate".
 
 Pentru o evidența mai bună putem adăuga sau șterge anumite coloane cu
-ajutorul comenzii „Toate acțiunile” selectare „Modificare formă” iar din
+ajutorul comenzii "Toate acțiunile" selectare "Modificare formă" iar din
 lista se poate selecta ce anume să apară în lista cu comenzi.
 
 |image69|
 
-După selectare apăsăm „Aplicare” iar lista comenzilor se modifică după
+După selectare apăsăm "Aplicare" iar lista comenzilor se modifică după
 nevoile utilizatorului.
 
 |image70|
@@ -1005,31 +1005,31 @@ configurare fiind oarecum la fel.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Lista facturilor proforme emise o putem vizualiza selectând cu un singur
-click de la secțiunea Vânzări, „Factura proformă emisă”. Astfel, putem
+click de la secțiunea Vânzări, "Factura proformă emisă". Astfel, putem
 filtra această listă după cum se dorește pentru a găsi în cel mai scurt
 timp factura proformă care ne interesează. Pe baza facturii proforme se
-poate crea documentul „Vânzare bunuri” cu ajutorul butonului „Creare pe
-baza”, preluându-se automat informațiile din factura proformă.
+poate crea documentul "Vânzare bunuri" cu ajutorul butonului "Creare pe
+baza", preluându-se automat informațiile din factura proformă.
 
 |image74|
 
 6.1.3. Vânzare bunuri
 ~~~~~~~~~~~~~~~~~~~~~
 
-Pe secțiunea „Vânzări” pentru a vedea și crea „Vânzare bunuri” trebuie
-să selectăm cu un click „Vânzare bunuri”.Acest document este cel care
+Pe secțiunea "Vânzări" pentru a vedea și crea "Vânzare bunuri" trebuie
+să selectăm cu un click "Vânzare bunuri".Acest document este cel care
 face modificări în vederea ieșirii produselor vândute din stoc și
 crearea datoriei față de clientul respectiv.
 
 Pentru a adăuga un document nou de ieșire (Vânzare bunuri) apăsați
-butonul „Creare”, iar dacă există un alt document de bază pentru care
+butonul "Creare", iar dacă există un alt document de bază pentru care
 trebuie continuat fluxul documentelor, vânzare bunuri se poate crea din
-documentul de bază cu ajutorul butonului „Creare pe baza”, preluându-se
+documentul de bază cu ajutorul butonului "Creare pe baza", preluându-se
 automat anumite informații Există posibilitatea editării acestora dacă
 se dorește acest lucru.
 
-La fel ca mai sus, odată creat, tot cu ajutorul butonului „Creare pe
-baza” din „Vânzare bunuri” se poate crea factura fiscală.
+La fel ca mai sus, odată creat, tot cu ajutorul butonului "Creare pe
+baza" din "Vânzare bunuri" se poate crea factura fiscală.
 
 |image75|
 
@@ -1038,20 +1038,20 @@ baza” din „Vânzare bunuri” se poate crea factura fiscală.
 
 Lista facturilor fiscale de vânzare poate fi vizualizată în momentul în
 care se acționează din meniul de vânzări secțiunea “Facturi fiscale de
-vânzare”.
+vânzare".
 
-Pentru a adăuga o nouă factură în listă apăsați butonul „Creare”, sau
+Pentru a adăuga o nouă factură în listă apăsați butonul "Creare", sau
 dacă factura pe care doriți să o creați are la bază un alt document (de
-exemplu un document „Vânzare bunuri”), mergem pe documentul respectiv și
-cu ajutorul butonului „Creare pe baza” se deschide un meniu derulant,
+exemplu un document "Vânzare bunuri"), mergem pe documentul respectiv și
+cu ajutorul butonului "Creare pe baza" se deschide un meniu derulant,
 din care trebuie să selectăm factura fiscală.
 
 |image76|
 
 Pentru a adăuga în listă o nouă factură fiscală de vânzare apăsați
-butonul “Creare” .Dar, dacă factura pe care doriți să o creați are la
+butonul “Creare" .Dar, dacă factura pe care doriți să o creați are la
 bază un alt document de exemplu o comanda client sau o factură proformă,
-mergem pe documentul respectiv și cu ajutorul butonului „Creare pe baza”
+mergem pe documentul respectiv și cu ajutorul butonului "Creare pe baza"
 selectând factură fiscală din lista care se deschide, putem crea factura
 fiscală într-un timp mult mai scurt.Astfel, se preiau automat anumite
 informații din documentul de bază.
@@ -1059,11 +1059,11 @@ informații din documentul de bază.
 |image77|
 
 După ce terminați de completat și editat factura trebuie salvată și
-validată cu ajutorul butoanelor „Salvare” și „Validare”, pentru a ajunge
+validată cu ajutorul butoanelor "Salvare" și "Validare", pentru a ajunge
 în evidența contabilă din sistemul **1C:BusinessManagementSuite.**
 
 Pentru a vizualiza forma de printare și a printa eventual factura creată
-trebuie acționat butonul „Imprimare”.
+trebuie acționat butonul "Imprimare".
 
 |image78|
 
@@ -1077,18 +1077,18 @@ pentru ca acestea să fie preluate în documente. Prețurile pot fi setate
 pentru fiecare nomenclator (cu o caracteristică anume), pe o perioadă
 determinată de timp.
 
-De exemplu, pentru nomenclatorul „marfa1” de la furnizorul „Rocast
-Group” avem prețul cel mai mic din perioada 02.07.2012 până în prezent,
+De exemplu, pentru nomenclatorul "marfa1" de la furnizorul "Rocast
+Group" avem prețul cel mai mic din perioada 02.07.2012 până în prezent,
 respectiv 180 lei.
 
 Astfel, la completarea unui document de achiziție fie el comanda,
 factură proformă, cumpărări mărfuri și servicii sau factură fiscală de
-vânzare, în momentul în care alegem partenerul „Rocast Group”, de
+vânzare, în momentul în care alegem partenerul "Rocast Group", de
 exemplu și marfa1 prețul este completat automat în aceste documente.
 
 Pentru a seta un preț pentru un nomenclator aferent unui partener
-deschideți informațiile despre nomenclator la „Prețurile terților” și
-apăsați butonul „Creare”.Completați perioada din care este valabil acest
+deschideți informațiile despre nomenclator la "Prețurile terților" și
+apăsați butonul "Creare".Completați perioada din care este valabil acest
 preț până în prezent. Selectați partenerul pentru care este valabil
 prețul și tipul de preț pentru acesta. De asemenea, se poate seta prețul
 pe un nomenclator cu o caracteristică sau mai multe cu posibilitatea de
@@ -1097,9 +1097,9 @@ avea prețuri diferite în funcție de caracteristică.
 Trebuie completat prețul și unitatea de măsură.
 
 După efectuarea acestor setări de la data de 07.11.2014 inclusiv, în
-orice document de achiziție dacă completăm ca partener „Unic Artcon” și
-nomenclator „marfa 2” câmpul preț va fi completat automat cu valoarea
-„525”.
+orice document de achiziție dacă completăm ca partener "Unic Artcon" și
+nomenclator "marfa 2" câmpul preț va fi completat automat cu valoarea
+"525".
 
 |image79|
 
@@ -1110,10 +1110,10 @@ nomenclator „marfa 2” câmpul preț va fi completat automat cu valoarea
 
 Pe măsură ce a fost creat nomenclatorul, au fost stabilite și prețuri de
 vânzare principale aferente articolelor. Coloana în care acestea apar
-este denumita implicit „Preț cu ridicata”.
+este denumita implicit "Preț cu ridicata".
 
-Pentru a crea prețuri diferite, intrăm în secțiunea „Vânzări” **-**
-„Liste de prețuri” **-** „Formarea prețurilor”.
+Pentru a crea prețuri diferite, intrăm în secțiunea "Vânzări" **-**
+"Liste de prețuri" **-** "Formarea prețurilor".
 
 |image81|
 
@@ -1121,10 +1121,10 @@ Formarea prețurilor cuprinde patru pași:
 
 Pasul 1: Selectarea tipului de prețuri sau creare unui preț nou
 
-În vederea creării noului preț „Preț de vânzare 1”, intrăm la secțiunea
-„Tipurile prețurilor”, apăsăm butonul „Selectare” - „Creare”, scriem
-denumirea „Preț de vanzare1”, debifăm „Prețul include TVA” și apoi
-apăsăm „Salvare și închidere”.
+În vederea creării noului preț "Preț de vânzare 1", intrăm la secțiunea
+"Tipurile prețurilor", apăsăm butonul "Selectare" - "Creare", scriem
+denumirea "Preț de vanzare1", debifăm "Prețul include TVA" și apoi
+apăsăm "Salvare și închidere".
 
 |image82|
 
@@ -1135,19 +1135,19 @@ zecimală. Se va selecta noul tip de preț creat.
 
 Pasul 2: Selectarea nomenclatorul
 
-În vederea completării nomenclatorului, se apasă butonul „Completare”.
+În vederea completării nomenclatorului, se apasă butonul "Completare".
 
 |image84|
 
 Formarea prețurilor se poate realiza prin mai multe metode puse la
 dispoziție de program, pe care le vom prezenta în cele ce urmează:
 
--  Bifarea opțiunii „Adăugare conform tipului de preț la data”:
+-  Bifarea opțiunii "Adăugare conform tipului de preț la data":
 
-Alegem tipul de preț „Preț cu ridicata”, adica prețul de vânzare
+Alegem tipul de preț "Preț cu ridicata", adica prețul de vânzare
 principal, stabilim data 20.05.2015, aceasta fiind data pentru care
 există deja prețurile de vânzare principale.La final se apasă butonul
-„Adăugare”.
+"Adăugare".
 
 Formarea noului preț de vânzare 1 se realizează pe baza Prețului de
 vânzare principal (Preț cu ridicata).
@@ -1155,56 +1155,56 @@ vânzare principal (Preț cu ridicata).
 |image85|
 
 Ca rezultat al apăsării acestui buton, se va afișa lista cu prețurile
-principale de vânzare, denumite „Preț cu ridicata” aferente fiecărui
+principale de vânzare, denumite "Preț cu ridicata" aferente fiecărui
 articol existent în nomenclator la data 20.05.2015.
 
-Pasul 3: „Modificați prețurile”
+Pasul 3: "Modificați prețurile"
 
 Prețurile principale pot fi modificate în funcție de dorințele si
 nevoile dumneavoastră.
 
 |image86|
 
-Apăsând butonul „Modificare %”, există posibilitatea majorării sau
+Apăsând butonul "Modificare %", există posibilitatea majorării sau
 diminuării prețurilor inițiale cu un procent care poate varia în funcție
 de nevoile organizației.În exemplul prezentat mai jos, prețurile s-au
 modificat cu un adaos de 10%.
 
 |image87|
 
-Apăsând butonul „Executare”, prețurile vor fi mărite sau micșorate cu
+Apăsând butonul "Executare", prețurile vor fi mărite sau micșorate cu
 procentul indicat.
 
-Pasul 4: „Înregistrați prețurile”
+Pasul 4: "Înregistrați prețurile"
 
 Se adaugă data de la care se vor schimba prețurile și se accesează
-butonul „Setare”.Coloana denumită „Prețul” va fi actualizată la noile
+butonul "Setare".Coloana denumită "Prețul" va fi actualizată la noile
 modificări.
 
-În urma apăsării butonului „Setare”, în lista de prețuri va apărea o
-nouă coloană denumită „Preț de vânzare 1”.
+În urma apăsării butonului "Setare", în lista de prețuri va apărea o
+nouă coloană denumită "Preț de vânzare 1".
 
 |image88|
 
 În momentul în care dăm dublu click pe primul articol din listă și
-apăsăm pe butonul „Deschide”\ |image89|, la secțiunea „Prețuri” în
+apăsăm pe butonul "Deschide"\ |image89|, la secțiunea "Prețuri" în
 partea stângă va apărea noul preț de vânzare și data creării acestuia.
 
 |image90|
 
-Poate fi vizualizat , astfel „Istoricul modificării prețurilor
-nomenclatorului”.
+Poate fi vizualizat , astfel "Istoricul modificării prețurilor
+nomenclatorului".
 
 |image91|
 
--  „Adaugă prețurile necompletate pe baza tipului de prețuri”
+-  "Adaugă prețurile necompletate pe baza tipului de prețuri"
 
 Această opțiune se adresează articolelor care nu au preț de vânzare
 principal și la care prețul poate fi introdus manual.
 
-Adăugăm „Preț de vanzare 2” pe baza prețului cu ridicata stabilit
+Adăugăm "Preț de vanzare 2" pe baza prețului cu ridicata stabilit
 implicit ca și în cazul de mai sus. Scriem data 13.05.2015 și apăsăm
-butonul „Adăugare”.
+butonul "Adăugare".
 
 |image92|
 
@@ -1216,21 +1216,21 @@ Ca și în exemplul de mai sus, se setează data la care dorim ca firma să
 practice prețurile respective.
 
 Lista de prețuri a companiei va fi actualizată prin adăugarea unei noi
-coloane “Preț de vânzare 2” în lista de prețuri pentru articolele
+coloane “Preț de vânzare 2" în lista de prețuri pentru articolele
 bifate.
 
 |image94|
 
 Pentru a adăuga prețuri aferente articolelor printr-o altă metodă,
-apăsăm butonul „Golire”.
+apăsăm butonul "Golire".
 
 |image95|
 
--  „Adăugare conform grupului nomenclatorului”
+-  "Adăugare conform grupului nomenclatorului"
 
-Se apasă butonul „Formarea prețurilor”, selectăm „Preț cu ridicata”,
-alegem folderul „Mărfuri”, accesăm butonul „Selectare”, iar la final
-„Adăugare”.
+Se apasă butonul "Formarea prețurilor", selectăm "Preț cu ridicata",
+alegem folderul "Mărfuri", accesăm butonul "Selectare", iar la final
+"Adăugare".
 
 |image96|
 
@@ -1238,25 +1238,25 @@ Ne vor apărea în tabel prețurile de vânzare cele mai recente.
 
 |image97|
 
-Dacă dorim să modificăm prețul existent, se apasă butonul „Modificare”,
-cu un discount de 10% și dăm click pe butonul „Executare”.
+Dacă dorim să modificăm prețul existent, se apasă butonul "Modificare",
+cu un discount de 10% și dăm click pe butonul "Executare".
 
 Se va scrie data de la care vor fi setate noile prețuri și apăsăm
-butonul „Setare”.În urma apăsării acestui buton în lista de prețuri va
-apărea o nouă coloană actualizată denumită „Preț cu ridicata”.
+butonul "Setare".În urma apăsării acestui buton în lista de prețuri va
+apărea o nouă coloană actualizată denumită "Preț cu ridicata".
 
 |image98|
 
--  „Adăugare conform facturii de intrare”
+-  "Adăugare conform facturii de intrare"
 
-Se apasă butonul „Selectare” |image99|, alegem factura sau mai multe
+Se apasă butonul "Selectare" |image99|, alegem factura sau mai multe
 facturi de intrare de la un singur partener.
 
-Se selectează prima factură, apăsăm „Adăugare” apoi selectăm a doua
+Se selectează prima factură, apăsăm "Adăugare" apoi selectăm a doua
 factură pentru același partener, și o adăugăm în același mod.
 
-|image100|\ Accesăm butonul „Modificare”, adăugăm la preț un adaos de
-20% și se apasă „Executare”.
+|image100|\ Accesăm butonul "Modificare", adăugăm la preț un adaos de
+20% și se apasă "Executare".
 
 |image101|
 
@@ -1264,24 +1264,24 @@ Mai departe adăugăm data la care vom seta noile prețuri.
 
 |image102|
 
-Vom intra din nou în „Vânzări”, „Liste de prețuri” pentru a vedea noul
+Vom intra din nou în "Vânzări", "Liste de prețuri" pentru a vedea noul
 preț pentru noile articole.Această metodă ne aduce ultimul preț de
 achiziție, cel mai recent, la care se adaugă 20%.Există posibilitatea de
-a filtra informațiile existente pe „Tipul prețurilor”, „Grupuri de
-prețuri”, sau „Nomenclator”.
+a filtra informațiile existente pe "Tipul prețurilor", "Grupuri de
+prețuri", sau "Nomenclator".
 
 |image103|
 
 După cum se poate observa din imaginea de mai jos, în lista de prețuri a
 companiei, la 4 iunie 2015, s-a realizat căutarea articolului din
-nomenclator „Cafetiera Bosch tk 602”, având „Preț de vânzare 3”.
+nomenclator "Cafetiera Bosch tk 602", având "Preț de vânzare 3".
 
 |image104|
 
 Modificarea prețurilor se poate realiza accesând unul dintre următoarele
 butoane:
 
-a) Butonul „La prețurile” permite modificarea unui tip de preț, având ca
+a) Butonul "La prețurile" permite modificarea unui tip de preț, având ca
    referință valorile unui preț mai vechi.
 
    |image105|
@@ -1290,42 +1290,42 @@ Din imaginea de mai sus, putem observa faptul că valorile prețului de
 vânzare 1 sunt modificate la prețul de vânzare implicit (Preț de vânzare
 principal).
 
-b) Butonul „La prețurile partenerului”
+b) Butonul "La prețurile partenerului"
 
    |image106|
 
 Această metodă permite schimbarea prețurilor de vânzare principale
 pentru un anumit partener.
 
-c) Butonul „Conform documentului”
+c) Butonul "Conform documentului"
 
    |image107|
 
-d) Butonul „Modificare”permite adăugarea unui procent de 10% la prețul
+d) Butonul "Modificare"permite adăugarea unui procent de 10% la prețul
    de vânzare inițial, sau scăderea unui procent de 10% din acesta.
    Noile prețuri vor fi actualizate la toate articolele din nomenclator.
 
    |image108|
 
-e) Butonul „Modificare cu suma” este util atunci când se dorește
+e) Butonul "Modificare cu suma" este util atunci când se dorește
    schimbarea prețului inițial prin adăugarea sau scăderea unei valori
    fixe, nu procentuale.
 
    |image109|
 
-f) Butonul „Rotunjire” are ca efect rotunjirea noilor prețuri prin adaos
+f) Butonul "Rotunjire" are ca efect rotunjirea noilor prețuri prin adaos
    la o zecimală. Programul oferă și alte opțiuni de rotunjire.
 
    |image110|
 
 În **1C Business Management** **Suite** avem posibilitatea de a adăuga,
-modifica sau urmări istoricul de prețuri, accesând butoanele „Adăugare”,
-„Modificare”, „Istoric” din lista de prețuri.
+modifica sau urmări istoricul de prețuri, accesând butoanele "Adăugare",
+"Modificare", "Istoric" din lista de prețuri.
 
 |image111|
 
 Procedura constă în selectarea unui articol din nomenclator, se apasă
-butonul „Adăugare”, se alege tipul de preț pe care dorim sa-l selectăm
+butonul "Adăugare", se alege tipul de preț pe care dorim sa-l selectăm
 și adăugăm noul preț pentru articolul respectiv.
 
 |image112|
@@ -1338,15 +1338,15 @@ După modificare, lista de prețuri va fi actualizată.
 6\ **.1.6. Retur de la client**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Pentru a efectua un retur de la client indentificați documentul „Vânzare
-bunuri”, pe baza căruia se face returul cu ajutorul butonului „Creare pe
-bază” Selectați „Cumpărare mărfuri și servicii (retur)”.
+Pentru a efectua un retur de la client indentificați documentul "Vânzare
+bunuri", pe baza căruia se face returul cu ajutorul butonului "Creare pe
+bază" Selectați "Cumpărare mărfuri și servicii (retur)".
 
 |image114|
 
 Astfel, putem vedea că ne sunt aduse datele din documentul de vânzare
-într-un document de cumpărare dar cu tipul operațiunii „Returnare de la
-cumpărător”. Înainte de validare efectuați modificările necesare pentru
+într-un document de cumpărare dar cu tipul operațiunii "Returnare de la
+cumpărător". Înainte de validare efectuați modificările necesare pentru
 un retur parțial, și verificați corectitudinea informațiilor.
 
 6.1.7. Rapoarte privind vânzările
@@ -1359,8 +1359,8 @@ acestuia prin filtrarea și sortarea elementelor care îl compun.
 
 |image115|
 
-Sa luăm de exemplu raportul „Livrări și achitări pe baza comenzilor
-clienților”.Acest raport evidențiază comenzile de la clienți, precum și
+Sa luăm de exemplu raportul "Livrări și achitări pe baza comenzilor
+clienților".Acest raport evidențiază comenzile de la clienți, precum și
 sumele aferente.Se urmărește starea plății acestora, restul de plată,
 cantitatea comandată, cantitatea rămasă de expediat.
 
@@ -1369,7 +1369,7 @@ cantitatea comandată, cantitatea rămasă de expediat.
 6.2. Achiziții
 --------------
 
-Modulul „Achiziții” cuprinde: comenzi către furnizori, facturi proforme
+Modulul "Achiziții" cuprinde: comenzi către furnizori, facturi proforme
 de achiziție, cumpărări mărfuri și servicii, facturi fiscale de
 achiziție, retur către furnizori dar si și rapoarte privind achizițiile.
 
@@ -1381,13 +1381,13 @@ achiziție, retur către furnizori dar si și rapoarte privind achizițiile.
 Lista comenzilor către furnizori o putem vedea la fel ca și celelalte
 elemente (facturi proforme, avize de intrare, facturi fiscale de
 achiziție, retur către furnizori) dând un singur click pe modulul de,
-„Achiziții”, secțiunea „Achiziții” pe „Comenzi către furnizori”.Astfel,
+"Achiziții", secțiunea "Achiziții" pe "Comenzi către furnizori".Astfel,
 vom avea acces la lista de comenzi către furnizori unde vom putea
 vizualiza data la care s-a făcut comanda, numărul care i-a fost
 atribuit, numele partenerului, statusul acesteia și suma. De asemenea
 există posibilitatea filtrării după anumite valori pentru a putea găsi
 comenzile mai ușor. Pentru a adăuga o nouă comanda către furnizor
-accesăm butonul „Creare”.
+accesăm butonul "Creare".
 
 |image118|
 
@@ -1395,7 +1395,7 @@ accesăm butonul „Creare”.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Lista facturilor proforme o putem vizualiza selectând cu un singur click
-de la secțiunea „Achiziții”, „Factura proformă”.Astfel, putem filtra și
+de la secțiunea "Achiziții", "Factura proformă".Astfel, putem filtra și
 sorta această listă după cum se dorește pentru a găsi în cel mai scurt
 timp factura proformă care ne interesează.
 
@@ -1405,12 +1405,12 @@ timp factura proformă care ne interesează.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Procurarea de mărfuri sau servicii se pote realiza accesând secțiunea
-„Achiziții”, „Cumpărări mărfuri și servicii”, apăsând „Adăugare”.
+"Achiziții", "Cumpărări mărfuri și servicii", apăsând "Adăugare".
 
 |image120|
 
-Acest lucru se mai poate realiza cu ajutorul butonului „Creare pe bază”
-direct din „Comenzile către furnizori”.Astfel se preiau automat anumite
+Acest lucru se mai poate realiza cu ajutorul butonului "Creare pe bază"
+direct din "Comenzile către furnizori".Astfel se preiau automat anumite
 informații existând posibilitatea editării acestora dacă se dorește
 acest lucru.
 
@@ -1420,21 +1420,21 @@ acest lucru.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Pentru a adăuga în listă o nouă factură fiscală de achiziție apăsați
-butonul „Creare”.Dacă factura pe care doriți să o creați are la bază un
+butonul "Creare".Dacă factura pe care doriți să o creați are la bază un
 alt document, de exemplu o comanda către furnizor, mergem pe documentul
-respectiv și cu ajutorul butonului „Creare pe baza” selectăm „Factură
-fiscală” din lista care se deschide. Putem crea factura fiscală într-un
+respectiv și cu ajutorul butonului "Creare pe baza" selectăm "Factură
+fiscală" din lista care se deschide. Putem crea factura fiscală într-un
 timp mult mai scurt preluându-se automat anumite informații din
 documentul de bază.
 
 |image122|
 
 După ce terminați de completat și editat factura trebuie salvată și
-validată cu ajutorul butoanelor „Validare și închidere” pentru a ajunge
+validată cu ajutorul butoanelor "Validare și închidere" pentru a ajunge
 în evidența contabilă din sistemul **1C:BusinessManagementSuite.**
 
 Pentru a vizualiza forma de printare și a printa eventual factura creată
-trebuie acționat butonul „Imprimare”.
+trebuie acționat butonul "Imprimare".
 
 |image123|
 
@@ -1446,19 +1446,19 @@ astfel încât acestea să fie preluate în documente. Prețurile pot fi
 setate pentru fiecare nomenclator (cu o caracteristică anume), pe un
 anumit partener sau pe o perioadă determinată de timp.
 
-De exemplu, pentru nomenclatorul „marfa1” de la furnizorul „Rocast
-Group” avem prețul cel mai mic din perioada 02.07.2012 până în prezent,
+De exemplu, pentru nomenclatorul "marfa1" de la furnizorul "Rocast
+Group" avem prețul cel mai mic din perioada 02.07.2012 până în prezent,
 respectiv 180 lei.
 
 |image124|
 
 Astfel, la completarea unui document de achiziție fie el comanda,
 factură proformă, cumpărări mărfuri și servicii sau factură fiscală de
-cumpărare, în momentul în care alegem partenerul „Rocast Group”, de
-exemplu și „marfa 1”, prețul este completat automat în aceste
+cumpărare, în momentul în care alegem partenerul "Rocast Group", de
+exemplu și "marfa 1", prețul este completat automat în aceste
 documente.Pentru a seta un preț pentru un nomenclator aferent unui
-partener, deschideți informațiile despre nomenclator la „Prețurile
-terților” și apăsați butonul „Creare”.Completați perioada din care este
+partener, deschideți informațiile despre nomenclator la "Prețurile
+terților" și apăsați butonul "Creare".Completați perioada din care este
 valabil acest preț până în prezent. Selectați partenerul pentru care
 este valabil prețul și tipul de preț pentru acesta. De asemenea, se
 poate seta prețul pe un nomenclator cu o caracteristică sau mai multe,
@@ -1467,9 +1467,9 @@ caracteristică.Trebuie completat prețul și unitatea de
 măsură.\ |image125|
 
 După efectuarea acestor setări de la data de 07.11.2014 inclusiv, în
-orice document de achiziție dacă completăm ca partener „Unic Artcon” și
-nomenclator „marfa 2”, câmpul preț va fi completat automat cu valoarea
-„525”.
+orice document de achiziție dacă completăm ca partener "Unic Artcon" și
+nomenclator "marfa 2", câmpul preț va fi completat automat cu valoarea
+"525".
 
 |image126|
 
@@ -1478,11 +1478,11 @@ nomenclator „marfa 2”, câmpul preț va fi completat automat cu valoarea
 
 La secțiunea cheltuieli suplimentare se pot adăuga anumite cheltuieli
 neprevăzute în cadrul procesului de achiziție. Pentru a adăuga un nou
-document în listă apăsați butonul „Creare”.La completarea documentului
+document în listă apăsați butonul "Creare".La completarea documentului
 sunt prezente trei câmpuri pentru o mai bună administrare a
-cheltuielilor suplimentare, și anume:„Stocuri”, „Cheltuieli” și
-„Suplimentar”. După ce ați terminat de completat documentul puteți
-acționa butonul „Validare și închidere” pentru a salva informațiile.
+cheltuielilor suplimentare, și anume:"Stocuri", "Cheltuieli" și
+"Suplimentar". După ce ați terminat de completat documentul puteți
+acționa butonul "Validare și închidere" pentru a salva informațiile.
 
 |image127|
 
@@ -1490,20 +1490,20 @@ acționa butonul „Validare și închidere” pentru a salva informațiile.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Pentru a efectua un retur către furnizor indentificați documentul
-„Cumpărari mărfuri și servicii” și cu ajutorul butonului „Creare pe
-baza” selectați „Vânzare bunuri (retur)”.
+"Cumpărari mărfuri și servicii" și cu ajutorul butonului "Creare pe
+baza" selectați "Vânzare bunuri (retur)".
 
 Astfel, putem vedea că ne sunt aduse datele din cumpărare într-un
-document de vânzare dar cu tipul operațiunii „Returnare către furnizor”.
+document de vânzare dar cu tipul operațiunii "Returnare către furnizor".
 Înainte de validare efectuați modificările necesare pentru un retur
 parțial, și verificați corectitudinea informațiilor.
 
 |image128|
 
 De asemenea, documentul de retur către furnizor (Vânzare bunuri-) poate
-fi creat și ca document nou cu ajutorul meniulul „Vânzări” - „Vânzări de
-bunuri” - „Creare” dar selectând la tipul operațiunii „Returnare către
-furnizor”.
+fi creat și ca document nou cu ajutorul meniulul "Vânzări" - "Vânzări de
+bunuri" - "Creare" dar selectând la tipul operațiunii "Returnare către
+furnizor".
 
 6.2.8. Rapoarte privind achizițiile și stocurile
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1514,7 +1514,7 @@ aferente acestora.
 
 |image129|
 
-Sa luăm de exemplu raportul „Intrări și ieșiri de stocuri”.Cu ajutorul
+Sa luăm de exemplu raportul "Intrări și ieșiri de stocuri".Cu ajutorul
 acestuia putem ține evidența articolelor din nomenclator.Raportul
 cuprinde operațiuni precum intrările, ieșirile și soldul final al
 stocurilor, având posibilitatea vizualizării documentelor care au stat
@@ -1526,9 +1526,9 @@ interesează.Astfel programul ne conduce la documentul inițial.
 6.3. Serviciu
 -------------
 
-Pe fila „Servicii” avem prezentate „Executarea lucrărilor,serviciilor”,
-„Planificator”, „Rapoarte privind serviciile”, „Comenzi de lucru”,
-„Parteneri”, „Nomenclator”, „Grupuri de lucru”.
+Pe fila "Servicii" avem prezentate "Executarea lucrărilor,serviciilor",
+"Planificator", "Rapoarte privind serviciile", "Comenzi de lucru",
+"Parteneri", "Nomenclator", "Grupuri de lucru".
 
 |image131|
 
@@ -1536,7 +1536,7 @@ Pe fila „Servicii” avem prezentate „Executarea lucrărilor,serviciilor”,
 ~~~~~~~~~~~~~~~~~~~~
 
 În fereastra de mai jos se pot crea comenzile deviz pentru angajați prin
-apăsarea butonului „Creare”sau a tastei „Insert”. Tot în această
+apăsarea butonului "Creare"sau a tastei "Insert". Tot în această
 fereastră se poate vedea lista de comenzi cu data în care a fost făcută,
 numărul de ordine interioară, responsabilul, suma dar și statusul
 comenzii.
@@ -1546,23 +1546,23 @@ comenzii.
 6.3.2. Rapoarte privind serviciile
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-La secțiunea „Rapoarte privind serviciile” avem disponibile o serie de
+La secțiunea "Rapoarte privind serviciile" avem disponibile o serie de
 rapoarte pentru a analiza comenzile de lucru și tot ce ține de acestea.
 
 |image133|
 
-Să luăm de exemplu raportul „Analiza încasărilor comenzilor de la
-clienți”
+Să luăm de exemplu raportul "Analiza încasărilor comenzilor de la
+clienți"
 
 |image134|
 
 6.4. Producție
 --------------
 
-Producția cuprinde următoarele file cele mai importante: „Calculul
-necesarului de stocuri”, „Rapoarte privind producția”, „Comenzi de
-producție”, „Producție”, „Transferuri stocuri”, „Repartizarea
-cheltuielilor”.
+Producția cuprinde următoarele file cele mai importante: "Calculul
+necesarului de stocuri", "Rapoarte privind producția", "Comenzi de
+producție", "Producție", "Transferuri stocuri", "Repartizarea
+cheltuielilor".
 
 |image135|
 
@@ -1570,8 +1570,8 @@ cheltuielilor”.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 La fel ca și pentru celelalte tipuri de comenzi de mai sus, pentru a
-adăuga o nouă comandă selectați butonul „Creare” sau apăsați tasta
-„Insert”.Comenzile de producție pot fi vizualizate ,căutate sau filtrate
+adăuga o nouă comandă selectați butonul "Creare" sau apăsați tasta
+"Insert".Comenzile de producție pot fi vizualizate ,căutate sau filtrate
 după dată, număr, statut sau după nomenclator.
 
 |image136|
@@ -1581,10 +1581,10 @@ după dată, număr, statut sau după nomenclator.
 6.4.2. Producție
 ~~~~~~~~~~~~~~~~
 
-Din „Comanda de producție” cu ajutorul butonului „Creare pe baza ”se
+Din "Comanda de producție" cu ajutorul butonului "Creare pe baza "se
 poate crea documentul de producție propriu-zis.
 
-Documentul „Producție” scoate materia primă din stoc și introduce în
+Documentul "Producție" scoate materia primă din stoc și introduce în
 stoc produsele finite putând fi selectate depozitul producător și
 depozitul beneficiar.
 
@@ -1595,13 +1595,13 @@ depozitul beneficiar.
 
 Dacă se face un transfer de stocuri între diferite depozite sau puncte
 de lucru pe care organizația dumneavoastră le are este necesar să
-utilizați documentul „Mișcări interne ale stocurilor”.
+utilizați documentul "Mișcări interne ale stocurilor".
 
 |image138|
 
-Din documentul de mai jos se pot abserva tipul operațiunii „Transfer
-(mișcări interne)”, depozitul din care se realizează transferul „Depozit
-secundar” și depozitul beneficiar „Depozit principal”.
+Din documentul de mai jos se pot abserva tipul operațiunii "Transfer
+(mișcări interne)", depozitul din care se realizează transferul "Depozit
+secundar" și depozitul beneficiar "Depozit principal".
 
 |image139|
 
@@ -1609,10 +1609,10 @@ secundar” și depozitul beneficiar „Depozit principal”.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 În procesul de producție există cheltuieli care se repartizează direct
-asupra producției.Observăm existența a trei file:„Producția”, „Stocuri”
-și „Cheltuieli”.Fila „Producția”descrie ce anume dorim să producem, fila
-„Stocuri” cuprinde materialele care au stat la baza realizării
-produsului finit, iar fila „Cheltuieli” conține cheltuieli pe care
+asupra producției.Observăm existența a trei file:"Producția", "Stocuri"
+și "Cheltuieli".Fila "Producția"descrie ce anume dorim să producem, fila
+"Stocuri" cuprinde materialele care au stat la baza realizării
+produsului finit, iar fila "Cheltuieli" conține cheltuieli pe care
 trebuie să le repartizăm asupra producției.
 
 |image140|
@@ -1627,8 +1627,8 @@ filtrarea elementelor care îl compun.
 
 |image141|
 
-Să luăm de exemplu raportul „Soldurile conform comenzilor de
-producție”.Acest raport poate fi filtrat după data, organizație,
+Să luăm de exemplu raportul "Soldurile conform comenzilor de
+producție".Acest raport poate fi filtrat după data, organizație,
 departament, comanda de producție.
 
 |image142|
@@ -1649,15 +1649,15 @@ privind mijloacele bănești.
 **6.5.2. Ordine de plată**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Pentru a realiza un ordin de plată selectați „Ordine de plată”din lista
-de documente și apăsați butonul „Creare” sau tasta „Insert”.
+Pentru a realiza un ordin de plată selectați "Ordine de plată"din lista
+de documente și apăsați butonul "Creare" sau tasta "Insert".
 
 |image145|
 
 6.5.3. Încasare bancară
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-Cu ajutorul documentului „Încasare bancară” se înregistrează toate
+Cu ajutorul documentului "Încasare bancară" se înregistrează toate
 sumele intrate în contul bancar selectat de dumneavoastră.
 
 |image146|
@@ -1673,8 +1673,8 @@ diverși furnizori din contul bancar.
 6.5.5. Deconturi de avans
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Pentru a adăuga un decont de avans nou puteți folosi butonul „Adăugare”
-sau tasta „Insert”.
+Pentru a adăuga un decont de avans nou puteți folosi butonul "Adăugare"
+sau tasta "Insert".
 
 |image148|\ **6.5.6. Plată din casierie**
 
@@ -1686,12 +1686,12 @@ din casieria organizației.
 6.5.7. Intrări în casierie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Documentul „Intrări în casierie” înregistrează încasările cu numerar ale
+Documentul "Intrări în casierie" înregistrează încasările cu numerar ale
 companiei.
 
 |image150|
 
-Pe baza acestui document cu ajutorul butonului „Imprimare” putem lista
+Pe baza acestui document cu ajutorul butonului "Imprimare" putem lista
 chitanță sau dispoziție de încasare.
 
 |image151|
@@ -1699,7 +1699,7 @@ chitanță sau dispoziție de încasare.
 6.5.8. Transfer de numerar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Prin documentul „Transfer de numerar”se face transferul între casieriile
+Prin documentul "Transfer de numerar"se face transferul între casieriile
 organizației.
 
 |image152|
@@ -1713,27 +1713,27 @@ aferente acestuia.
 
 |image153|
 
-Să luam de exemplu raportul „Mijloacele bănești”
+Să luam de exemplu raportul "Mijloacele bănești"
 
 |image154|
 
 6.6. Salarizare
 ---------------
 
-Pe modulul „Salarizare” avem următoarele documente, dintre care cele mai
-importante sunt:„Documente de HRM”,„Documente de salarizare”, „Rapoarte
-privind salarizarea și personalul”, „Tabele de pontaj”, „Lista de
-ștate”, „Ordin de încadrare a salariaților”, „Concedieri”, „Calcule
-salariale”.
+Pe modulul "Salarizare" avem următoarele documente, dintre care cele mai
+importante sunt:"Documente de HRM","Documente de salarizare", "Rapoarte
+privind salarizarea și personalul", "Tabele de pontaj", "Lista de
+ștate", "Ordin de încadrare a salariaților", "Concedieri", "Calcule
+salariale".
 
 |image155|
 
 6.6.1.Ordinul de încadrare
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Ordinul de încadrare se poate realiza din secțiunea „ Documente de HRM”,
-sau direct apăsând click pe „ Ordin de încadrare al salariaților” de la
-secțiunea „Personal”\ **.** Este documentul care atesta contractele de
+Ordinul de încadrare se poate realiza din secțiunea " Documente de HRM",
+sau direct apăsând click pe " Ordin de încadrare al salariaților" de la
+secțiunea "Personal"\ **.** Este documentul care atesta contractele de
 angajare ale angajaților companiei.Acesta cuprinde numele angajaților,
 data angajării, departamentul, funcția și orarul de lucru.
 
@@ -1742,7 +1742,7 @@ data angajării, departamentul, funcția și orarul de lucru.
 6.6.2. Concediere
 ~~~~~~~~~~~~~~~~~
 
-Documentul de concediere se poate realiza ca și în cazul ordinului de încadrare fie din „Documente de HRM”, fie din secțiunea „Personal”.
+Documentul de concediere se poate realiza ca și în cazul ordinului de încadrare fie din "Documente de HRM", fie din secțiunea "Personal".
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 |image157|
@@ -1769,8 +1769,8 @@ numărul de ore lucrate și tariful orar pentru angajați.
 6.6.4. Lista de ștate 
 ~~~~~~~~~~~~~~~~~~~~~~
 
-Se apasă pe modulul „Salarizare”, „Lista de state”, și apăsăm butonul
-„Creare”.Se completează departamentul, funcția deținută de angajat,
+Se apasă pe modulul "Salarizare", "Lista de state", și apăsăm butonul
+"Creare".Se completează departamentul, funcția deținută de angajat,
 perioada, salariul minim și salariul maxim pentru poziția respectivă,dar
 și valuta de evidență.
 
@@ -1784,14 +1784,14 @@ interval salarial și valuta salariilor.
 6.6.5. Date despre angajați
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-La „Date despre angajați” apare lista angajaților dumneavoastră.În cazul
-în care lista este goală cu ajutorul butonului „Creare” vom adăuga noi
-angajați.Lista angajaților se creează din catalogul „Persoane fizice”.
+La "Date despre angajați" apare lista angajaților dumneavoastră.În cazul
+în care lista este goală cu ajutorul butonului "Creare" vom adăuga noi
+angajați.Lista angajaților se creează din catalogul "Persoane fizice".
 
 |image163|
 
 Astfel, informațiile generale despre fiecare angajat sunt păstrate în
-catalogul „Persoane fizice”.
+catalogul "Persoane fizice".
 
 |image164|
 
@@ -1859,18 +1859,18 @@ Activele în numerar:
 Monitorul de active de numerar arată soldurile de numerar și
 tranzacțiile în numerar.
 
-Indicatorul de performanță „Mijloace bănești”poate fi vizualizat
-accesând modulul „Analiză”, „Mijloace bănești”.
+Indicatorul de performanță "Mijloace bănești"poate fi vizualizat
+accesând modulul "Analiză", "Mijloace bănești".
 
 |image171|
 
-Indicatorul de performanță „Decontări cu clienții” prezintă informații
+Indicatorul de performanță "Decontări cu clienții" prezintă informații
 detaliate cu privire la sumele de încasat de la clienți, creanțele pe o
 anumită perioadă de timp.
 
 |image172|
 
-Indicatorul de performanță „Decontări cu furnizorii” prezintă informații
+Indicatorul de performanță "Decontări cu furnizorii" prezintă informații
 detaliate cu privire la sumele de plătit, inclusiv orice angajamente
 financiare, restanțe și datorii către furnizori în funcție de perioadă.
 
@@ -1882,7 +1882,7 @@ comenzile clienților și verifică sarcinile care nu sunt încă finalizate.
 8. Reparație
 ============
 
-„Comenzi deviz ” pot fi folosite ca o bază pentru a genera sarcini de
+"Comenzi deviz " pot fi folosite ca o bază pentru a genera sarcini de
 lucru pentru angajați, planificarea resurselor și furnizarea de
 servicii. De exemplu, se pot rezerva autovehicule pentru livrarea
 mărfii. Serviciile planificate pot fi privite ca o listă de documente,
@@ -2103,11 +2103,11 @@ existând și posibilitatea modificărilor manuale.
 
 1C:BusinessManagementSuite dispune de un instrument de modificare a
 șablonului formei de listare pe baza căruia se formează forma de
-imprimare. Această opțiune poate fi găsită pe modulul „Administrare” la
-„Forme de imprimare, rapoarte și prelucrare”→ „Machetele formelor de
-tipar”. O să apară lista cu toate șabloanele formelor de printare.
+imprimare. Această opțiune poate fi găsită pe modulul "Administrare" la
+"Forme de imprimare, rapoarte și prelucrare"→ "Machetele formelor de
+tipar". O să apară lista cu toate șabloanele formelor de printare.
 
-La coloana „Proprietar șablon” putem observa documentul pe baza căruia
+La coloana "Proprietar șablon" putem observa documentul pe baza căruia
 se creează forma de imprimare.
 
 |image187|
@@ -2118,13 +2118,13 @@ se creează forma de imprimare.
 Modalitățile manuale ale efectuării copiilor de rezervă (Backup):
 
 -  Modalitatea standard - platforma 1C:Enterprise creează o extensie de
-   tip „dt” care conține baza de date și configurația în arhivă, astfel
+   tip "dt" care conține baza de date și configurația în arhivă, astfel
    cu ajutorul acestora poate fi restabilită baza de date și
    configurația. Descărcarea bazei de date se face din modul de lansare
-   Designer, accesând meniul „Administrare - Descarcă baza de date” și
+   Designer, accesând meniul "Administrare - Descarcă baza de date" și
    alegerea directorului în care se descarcă copia (Dt), respectiv
-   restabilirea se face accesând meniul „Administrare - Încarcă baza
-   informațională” și alegerea fișierului care conține baza de date din
+   restabilirea se face accesând meniul "Administrare - Încarcă baza
+   informațională" și alegerea fișierului care conține baza de date din
    directorul dumneavoastră.
 
 Pentru ca acest lucru sa fie posibil în baza de date nu trebuie sa
@@ -2133,9 +2133,9 @@ existe sesiuni active ale utilizatorilor bazei de date.
 -  altă metoda de efectuare a copiei bazei de date dar de data aceasta
    dezarhivată, este copiere din directorul în care se află (Directorul
    în care se află baza de date poate fi găsit foarte ușor dacă apăsăm
-   butonul „Afișează informații despre program” sau în fereastra cu
-   bazele de date : File="D:\Bases\InfoBase_BMS_Demo cu fișierele „cd,
-   cl, cfl ” de exemplu InfoBase_BMS_Demo poate fi și copiat pe altă
+   butonul "Afișează informații despre program" sau în fereastra cu
+   bazele de date : File="D:\Bases\InfoBase_BMS_Demo cu fișierele "cd,
+   cl, cfl " de exemplu InfoBase_BMS_Demo poate fi și copiat pe altă
    partiție sau pe un dispozitiv de stocare extern. Dacă se lucrează cu
    mai multe baze de date este indicat ca numele directorului în care se
    află baza de date sa fie cu același nume ca cel care apare în lista
@@ -2192,22 +2192,22 @@ Sau putem stabili un program în Schedule tasks ca fișierul sa fie lansat
 automat la diferite intervale de timp în funcție de necesități.
 
 Pentru a crea un task nou deschidem Schedule Tasks iar în Task Scheduler
-Library selectăm „Create Task”.
+Library selectăm "Create Task".
 
-În prima filă „General” trebuie să completăm numele taskului de exemplu
-(Copie bază de date). La a doua „Trigger” trebuie setat programul la
-care se va executa task-ul de exemplu „On a schedule” , selectăm data și
+În prima filă "General" trebuie să completăm numele taskului de exemplu
+(Copie bază de date). La a doua "Trigger" trebuie setat programul la
+care se va executa task-ul de exemplu "On a schedule" , selectăm data și
 ora de la care este valabil task-ul, iar apoi programul, de exemplu
 Weekly on Friday.
 
-În a treia filă „Actions” adăugam acțiunea „Start a program” iar la
-Program/Script selectăm fișierul „Cmd”si apăsăm „OK”.
+În a treia filă "Actions" adăugam acțiunea "Start a program" iar la
+Program/Script selectăm fișierul "Cmd"si apăsăm "OK".
 
 Această metodă de realizare a copiei bazei de date poate fi efectuată
 atât pe bazele de date de tip server cât și fișier.
 
 Pe serverele unde rulează 1C:Server acestă metodă creează la instalare 2
-comenzi „ragent” cu parametrii start și stop, cea cu parametrul <stop>
+comenzi "ragent" cu parametrii start și stop, cea cu parametrul <stop>
 poate fi folosită pentru închiderea 1C:Server, ceea ce duce la
 închiderea sesiunilor active ale utilizatorilor.
 
@@ -2215,7 +2215,7 @@ Astfel, putem seta ca două taskuri diferite în Scheduler Tasks – una
 care sa oprească sesiunile utilizatorilor la ora 00-00 de exemplu, iar
 la 00-10 celalalt task care va face copia bazei de date.
 
--  Pe bazele de date de tip „Server” care lucrează cu aplicații de
+-  Pe bazele de date de tip "Server" care lucrează cu aplicații de
    gestionare a bazelor de date, de exemplu: Microsoft SQL, Postgre SQL,
    Oracle, IMB DB2. 1C recomandă backup-ul realizat din această
    aplicație.
