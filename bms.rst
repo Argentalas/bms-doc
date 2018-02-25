@@ -269,7 +269,7 @@ multe date și rapoarte printre care:
 -  planuri de lucru și alocarea resurselor;
 -  acces online la toate informațiile companiei dumneavoastră în timp real;
 -  alte rapoarte de gestiune.
--  grafice si diagrame a situatiei financiare la zi.
+-  grafice și diagrame a situatiei financiare la zi.
 
 **1C:BusinessManagementSuite** este o soluție care pot fi implementată
 și pregătită pentru funcționare într-o perioadă extrem de scurtă de
