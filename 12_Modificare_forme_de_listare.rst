@@ -1,4 +1,4 @@
-10. Modificare forme de listare
+12. Modificare forme de listare
 ===============================
 
 1C:Business Management Suite dispune de un instrument de modificare a

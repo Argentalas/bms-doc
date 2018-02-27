@@ -1,4 +1,4 @@
-11. Copie bază de date în 1C:Enterprise
+13. Copie bază de date în 1C:Enterprise
 =======================================
 
 Modalitățile manuale ale efectuării copiilor de rezervă (Backup):

@@ -1,5 +1,5 @@
-**11. Sincronizarea datelor cu magazin online**
-===============================================
+11. Sincronizarea datelor cu magazin online
+===========================================
 
 Aplicația poate sincroniza date cu un magazin de tip online.
 
