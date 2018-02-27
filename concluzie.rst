@@ -4,7 +4,6 @@ Concluzie
 În speranța că acest document v-a fost de folos pentru familiarizarea cu aplicația **1C:Business Management Suite**, vă urăm succes în continuare la utilizarea acestuia. În cazul, în care întâmpinați probleme sau aveți întrebări/sugestii nu ezitați să ne contactați.
 
 Vă mulțumim,
-
 Echipa 1C-România S.C. "1C-Account Timbal" S.R.L.
 
 Web: `www.1c.ro <http://www.1c.ro/>`__
