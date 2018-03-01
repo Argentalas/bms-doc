@@ -6,7 +6,7 @@ SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
 SPHINXPROJ    = bms-doc
 SOURCEDIR     = .
-BUILDDIR      = /var/www/html/bms-doc
+BUILDDIR      = ./build
 
 # Put it first so that "make" without argument is like "make help".
 help:
