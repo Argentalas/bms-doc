@@ -11,6 +11,8 @@ How to edit
 ===========
 
 #. Pull latest version form 1C-Romania/bms-doc (In order to do this you need to create pull request toward yourself)
-#. Edit file
+#. Edit file using reStructuredText_
 #. Commit changes, write short description of changes made
 #. Create pull request to 1C-Romania/bms-doc
+
+.. _reStructuredText: https://en.wikipedia.org/wiki/ReStructuredText
