@@ -15,4 +15,4 @@ How to edit
 #. Commit changes, write short description of changes made
 #. Create pull request to 1C-Romania/bms-doc
 
-.. _reStructuredText: https://en.wikipedia.org/wiki/ReStructuredText
+.. _reStructuredText: http://docutils.sourceforge.net/rst.html
